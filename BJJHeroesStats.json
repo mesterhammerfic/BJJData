@@ -1,0 +1,4172 @@
+{
+    "Aaron Johnson": {
+        "sub_percent": 66,
+        "win_percent": 55.08474576271186,
+        "total_matches": 119,
+        "win_count": 65,
+        "leg_lock_count": 28,
+        "sub_variety": 19,
+        "sub_count": 43,
+        "leg_lock_percent": 65.11627906976744
+    },
+    "Abdurakhman Bilarov": {
+        "sub_percent": 64,
+        "win_percent": 68.75,
+        "total_matches": 32,
+        "win_count": 22,
+        "leg_lock_count": 5,
+        "sub_variety": 7,
+        "sub_count": 14,
+        "leg_lock_percent": 35.714285714285715
+    },
+    "Abraham Marte": {
+        "sub_percent": 70,
+        "win_percent": 61.53846153846154,
+        "total_matches": 65,
+        "win_count": 40,
+        "leg_lock_count": 0,
+        "sub_variety": 12,
+        "sub_count": 28,
+        "leg_lock_percent": 0.0
+    },
+    "Adam Benayoun": {
+        "sub_percent": 36,
+        "win_percent": 60.97560975609756,
+        "total_matches": 41,
+        "win_count": 25,
+        "leg_lock_count": 0,
+        "sub_variety": 8,
+        "sub_count": 9,
+        "leg_lock_percent": 0.0
+    },
+    "Adam Ferrara": {
+        "sub_percent": 83,
+        "win_percent": 54.54545454545454,
+        "total_matches": 22,
+        "win_count": 12,
+        "leg_lock_count": 6,
+        "sub_variety": 6,
+        "sub_count": 10,
+        "leg_lock_percent": 60.0
+    },
+    "Adam Wardzi\u0144ski": {
+        "sub_percent": 47,
+        "win_percent": 82.11009174311926,
+        "total_matches": 218,
+        "win_count": 179,
+        "leg_lock_count": 1,
+        "sub_variety": 26,
+        "sub_count": 84,
+        "leg_lock_percent": 1.1904761904761905
+    },
+    "Admilson Gobi Junior": {
+        "sub_percent": 41,
+        "win_percent": 71.15384615384616,
+        "total_matches": 52,
+        "win_count": 37,
+        "leg_lock_count": 1,
+        "sub_variety": 9,
+        "sub_count": 15,
+        "leg_lock_percent": 6.666666666666667
+    },
+    "Aniel Bonifacio": {
+        "sub_percent": 22,
+        "win_percent": 64.28571428571429,
+        "total_matches": 14,
+        "win_count": 9,
+        "leg_lock_count": 1,
+        "sub_variety": 2,
+        "sub_count": 2,
+        "leg_lock_percent": 50.0
+    },
+    "Alan Belcher": {
+        "sub_percent": 0,
+        "win_percent": 0.0,
+        "total_matches": 4,
+        "win_count": 0,
+        "leg_lock_count": 0,
+        "sub_variety": 0,
+        "sub_count": 0,
+        "leg_lock_percent": 0
+    },
+    "Alan Nascimento \u201cFinfou\u201d": {
+        "sub_percent": 18,
+        "win_percent": 74.6268656716418,
+        "total_matches": 67,
+        "win_count": 50,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 9,
+        "leg_lock_percent": 0.0
+    },
+    "Alef Brito": {
+        "sub_percent": 35,
+        "win_percent": 79.06976744186046,
+        "total_matches": 45,
+        "win_count": 34,
+        "leg_lock_count": 0,
+        "sub_variety": 9,
+        "sub_count": 12,
+        "leg_lock_percent": 0.0
+    },
+    "Alexander Trans": {
+        "sub_percent": 34,
+        "win_percent": 76.13636363636364,
+        "total_matches": 88,
+        "win_count": 67,
+        "leg_lock_count": 10,
+        "sub_variety": 12,
+        "sub_count": 23,
+        "leg_lock_percent": 43.47826086956522
+    },
+    "Alexandre Cavaliere": {
+        "sub_percent": 33,
+        "win_percent": 55.55555555555556,
+        "total_matches": 81,
+        "win_count": 45,
+        "leg_lock_count": 0,
+        "sub_variety": 11,
+        "sub_count": 15,
+        "leg_lock_percent": 0.0
+    },
+    "Alexandre \u201cSoca\u201d Freitas": {
+        "sub_percent": 68,
+        "win_percent": 68.29268292682927,
+        "total_matches": 41,
+        "win_count": 28,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 19,
+        "leg_lock_percent": 0.0
+    },
+    "Alexandre de Jesus": {
+        "sub_percent": 43,
+        "win_percent": 72.41379310344827,
+        "total_matches": 29,
+        "win_count": 21,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 9,
+        "leg_lock_percent": 0.0
+    },
+    "Alexandre Molinaro": {
+        "sub_percent": 12,
+        "win_percent": 69.16666666666667,
+        "total_matches": 120,
+        "win_count": 83,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Alexandre Ribeiro": {
+        "sub_percent": 49,
+        "win_percent": 79.20792079207921,
+        "total_matches": 206,
+        "win_count": 160,
+        "leg_lock_count": 1,
+        "sub_variety": 21,
+        "sub_count": 78,
+        "leg_lock_percent": 1.282051282051282
+    },
+    "Alexandre Vieira": {
+        "sub_percent": 98,
+        "win_percent": 61.8421052631579,
+        "total_matches": 76,
+        "win_count": 47,
+        "leg_lock_count": 0,
+        "sub_variety": 8,
+        "sub_count": 46,
+        "leg_lock_percent": 0.0
+    },
+    "Alexis Alduncin": {
+        "sub_percent": 47,
+        "win_percent": 52.054794520547944,
+        "total_matches": 73,
+        "win_count": 38,
+        "leg_lock_count": 2,
+        "sub_variety": 6,
+        "sub_count": 18,
+        "leg_lock_percent": 11.11111111111111
+    },
+    "Alex Sodr\u00e9": {
+        "sub_percent": 33,
+        "win_percent": 81.63265306122449,
+        "total_matches": 49,
+        "win_count": 40,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 13,
+        "leg_lock_percent": 0.0
+    },
+    "Ali Monfaradi": {
+        "sub_percent": 16,
+        "win_percent": 61.64383561643836,
+        "total_matches": 73,
+        "win_count": 45,
+        "leg_lock_count": 1,
+        "sub_variety": 7,
+        "sub_count": 7,
+        "leg_lock_percent": 14.285714285714285
+    },
+    "Amaury Bitetti": {
+        "sub_percent": 0,
+        "win_percent": 80.0,
+        "total_matches": 10,
+        "win_count": 8,
+        "leg_lock_count": 0,
+        "sub_variety": 0,
+        "sub_count": 0,
+        "leg_lock_percent": 0
+    },
+    "Andr\u00e9 Galv\u00e3o": {
+        "sub_percent": 46,
+        "win_percent": 85.32608695652173,
+        "total_matches": 185,
+        "win_count": 157,
+        "leg_lock_count": 5,
+        "sub_variety": 24,
+        "sub_count": 72,
+        "leg_lock_percent": 6.944444444444445
+    },
+    "Angelo Claiborne": {
+        "sub_percent": 38,
+        "win_percent": 72.72727272727273,
+        "total_matches": 11,
+        "win_count": 8,
+        "leg_lock_count": 1,
+        "sub_variety": 2,
+        "sub_count": 3,
+        "leg_lock_percent": 33.33333333333333
+    },
+    "Antonio Carlos Junior": {
+        "sub_percent": 44,
+        "win_percent": 69.23076923076923,
+        "total_matches": 26,
+        "win_count": 18,
+        "leg_lock_count": 0,
+        "sub_variety": 9,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Nino Schembri": {
+        "sub_percent": 63,
+        "win_percent": 73.07692307692307,
+        "total_matches": 26,
+        "win_count": 19,
+        "leg_lock_count": 2,
+        "sub_variety": 8,
+        "sub_count": 12,
+        "leg_lock_percent": 16.666666666666664
+    },
+    "Antonio Braga Neto": {
+        "sub_percent": 32,
+        "win_percent": 71.7948717948718,
+        "total_matches": 78,
+        "win_count": 56,
+        "leg_lock_count": 2,
+        "sub_variety": 10,
+        "sub_count": 18,
+        "leg_lock_percent": 11.11111111111111
+    },
+    "Arthur Det\u00e2nico": {
+        "sub_percent": 86,
+        "win_percent": 77.77777777777779,
+        "total_matches": 18,
+        "win_count": 14,
+        "leg_lock_count": 6,
+        "sub_variety": 5,
+        "sub_count": 12,
+        "leg_lock_percent": 50.0
+    },
+    "Ary Farias": {
+        "sub_percent": 26,
+        "win_percent": 73.80952380952381,
+        "total_matches": 42,
+        "win_count": 31,
+        "leg_lock_count": 2,
+        "sub_variety": 5,
+        "sub_count": 8,
+        "leg_lock_percent": 25.0
+    },
+    "Ashley Williams": {
+        "sub_percent": 41,
+        "win_percent": 70.73170731707317,
+        "total_matches": 43,
+        "win_count": 29,
+        "leg_lock_count": 1,
+        "sub_variety": 7,
+        "sub_count": 12,
+        "leg_lock_percent": 8.333333333333332
+    },
+    "Augusto Mendes \u201cTanquinho\u201d": {
+        "sub_percent": 25,
+        "win_percent": 69.38775510204081,
+        "total_matches": 100,
+        "win_count": 68,
+        "leg_lock_count": 2,
+        "sub_variety": 13,
+        "sub_count": 17,
+        "leg_lock_percent": 11.76470588235294
+    },
+    "Baret Yoshida": {
+        "sub_percent": 84,
+        "win_percent": 68.67469879518072,
+        "total_matches": 86,
+        "win_count": 57,
+        "leg_lock_count": 7,
+        "sub_variety": 14,
+        "sub_count": 48,
+        "leg_lock_percent": 14.583333333333334
+    },
+    "Bernardo Faria": {
+        "sub_percent": 52,
+        "win_percent": 78.51239669421489,
+        "total_matches": 121,
+        "win_count": 95,
+        "leg_lock_count": 6,
+        "sub_variety": 19,
+        "sub_count": 49,
+        "leg_lock_percent": 12.244897959183673
+    },
+    "Bibiano Fernandes": {
+        "sub_percent": 56,
+        "win_percent": 90.0,
+        "total_matches": 20,
+        "win_count": 18,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Bill \u201cThe Grill\u201d Cooper": {
+        "sub_percent": 73,
+        "win_percent": 61.53846153846154,
+        "total_matches": 78,
+        "win_count": 48,
+        "leg_lock_count": 9,
+        "sub_variety": 16,
+        "sub_count": 35,
+        "leg_lock_percent": 25.71428571428571
+    },
+    "Brandon Walensky": {
+        "sub_percent": 85,
+        "win_percent": 55.10204081632652,
+        "total_matches": 49,
+        "win_count": 27,
+        "leg_lock_count": 2,
+        "sub_variety": 13,
+        "sub_count": 23,
+        "leg_lock_percent": 8.695652173913043
+    },
+    "Bianca Bas\u00edlio": {
+        "sub_percent": 61,
+        "win_percent": 68.29268292682927,
+        "total_matches": 82,
+        "win_count": 56,
+        "leg_lock_count": 13,
+        "sub_variety": 13,
+        "sub_count": 34,
+        "leg_lock_percent": 38.23529411764706
+    },
+    "BJ Penn": {
+        "sub_percent": 25,
+        "win_percent": 100.0,
+        "total_matches": 4,
+        "win_count": 4,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Brandon Mullins \u201cWolverine\u201d": {
+        "sub_percent": 38,
+        "win_percent": 47.05882352941176,
+        "total_matches": 17,
+        "win_count": 8,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Braulio Estima": {
+        "sub_percent": 63,
+        "win_percent": 73.75,
+        "total_matches": 80,
+        "win_count": 59,
+        "leg_lock_count": 0,
+        "sub_variety": 15,
+        "sub_count": 37,
+        "leg_lock_percent": 0.0
+    },
+    "Bruno Frazatto": {
+        "sub_percent": 20,
+        "win_percent": 64.93506493506493,
+        "total_matches": 78,
+        "win_count": 50,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Bruno Lima": {
+        "sub_percent": 35,
+        "win_percent": 60.71428571428571,
+        "total_matches": 28,
+        "win_count": 17,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 6,
+        "leg_lock_percent": 0.0
+    },
+    "Bruno Malfacine": {
+        "sub_percent": 63,
+        "win_percent": 85.52631578947368,
+        "total_matches": 77,
+        "win_count": 65,
+        "leg_lock_count": 8,
+        "sub_variety": 17,
+        "sub_count": 41,
+        "leg_lock_percent": 19.51219512195122
+    },
+    "Caio Caetano": {
+        "sub_percent": 43,
+        "win_percent": 62.16216216216216,
+        "total_matches": 37,
+        "win_count": 23,
+        "leg_lock_count": 6,
+        "sub_variety": 7,
+        "sub_count": 10,
+        "leg_lock_percent": 60.0
+    },
+    "Caio Paganini": {
+        "sub_percent": 100,
+        "win_percent": 87.5,
+        "total_matches": 8,
+        "win_count": 7,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Carlos Vieira Holanda \u201cEsquisito\u201d": {
+        "sub_percent": 5,
+        "win_percent": 55.00000000000001,
+        "total_matches": 40,
+        "win_count": 22,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "C\u00e1ssio Cardoso": {
+        "sub_percent": 29,
+        "win_percent": 100.0,
+        "total_matches": 7,
+        "win_count": 7,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 2,
+        "leg_lock_percent": 0.0
+    },
+    "Cleber Sousa": {
+        "sub_percent": 40,
+        "win_percent": 73.41772151898735,
+        "total_matches": 79,
+        "win_count": 58,
+        "leg_lock_count": 4,
+        "sub_variety": 11,
+        "sub_count": 23,
+        "leg_lock_percent": 17.391304347826086
+    },
+    "Celso \u201cCelsinho\u201d Venicius": {
+        "sub_percent": 18,
+        "win_percent": 68.29268292682927,
+        "total_matches": 85,
+        "win_count": 56,
+        "leg_lock_count": 0,
+        "sub_variety": 10,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Chad Hardy": {
+        "sub_percent": 83,
+        "win_percent": 74.19354838709677,
+        "total_matches": 31,
+        "win_count": 23,
+        "leg_lock_count": 3,
+        "sub_variety": 7,
+        "sub_count": 19,
+        "leg_lock_percent": 15.789473684210526
+    },
+    "Charles Negromonte": {
+        "sub_percent": 43,
+        "win_percent": 73.94957983193278,
+        "total_matches": 121,
+        "win_count": 88,
+        "leg_lock_count": 1,
+        "sub_variety": 16,
+        "sub_count": 38,
+        "leg_lock_percent": 2.631578947368421
+    },
+    "Clark Gracie": {
+        "sub_percent": 61,
+        "win_percent": 53.73134328358209,
+        "total_matches": 70,
+        "win_count": 36,
+        "leg_lock_count": 1,
+        "sub_variety": 14,
+        "sub_count": 22,
+        "leg_lock_percent": 4.545454545454546
+    },
+    "Claudio Calasans": {
+        "sub_percent": 32,
+        "win_percent": 73.14285714285714,
+        "total_matches": 177,
+        "win_count": 128,
+        "leg_lock_count": 5,
+        "sub_variety": 14,
+        "sub_count": 41,
+        "leg_lock_percent": 12.195121951219512
+    },
+    "Claudio Silva": {
+        "sub_percent": 50,
+        "win_percent": 85.71428571428571,
+        "total_matches": 7,
+        "win_count": 6,
+        "leg_lock_count": 1,
+        "sub_variety": 3,
+        "sub_count": 3,
+        "leg_lock_percent": 33.33333333333333
+    },
+    "Claudio Mattos \u201cCaloquinha\u201d": {
+        "sub_percent": 32,
+        "win_percent": 74.11764705882354,
+        "total_matches": 86,
+        "win_count": 63,
+        "leg_lock_count": 12,
+        "sub_variety": 9,
+        "sub_count": 20,
+        "leg_lock_percent": 60.0
+    },
+    "Cleito Soares Junior": {
+        "sub_percent": 8,
+        "win_percent": 75.0,
+        "total_matches": 16,
+        "win_count": 12,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Cole Franson": {
+        "sub_percent": 52,
+        "win_percent": 59.183673469387756,
+        "total_matches": 49,
+        "win_count": 29,
+        "leg_lock_count": 1,
+        "sub_variety": 8,
+        "sub_count": 15,
+        "leg_lock_percent": 6.666666666666667
+    },
+    "Craig Jones": {
+        "sub_percent": 85,
+        "win_percent": 74.07407407407408,
+        "total_matches": 56,
+        "win_count": 40,
+        "leg_lock_count": 20,
+        "sub_variety": 12,
+        "sub_count": 34,
+        "leg_lock_percent": 58.82352941176471
+    },
+    "Daniel Moraes": {
+        "sub_percent": 18,
+        "win_percent": 78.43137254901961,
+        "total_matches": 102,
+        "win_count": 80,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 14,
+        "leg_lock_percent": 0.0
+    },
+    "Dan Borovic": {
+        "sub_percent": 83,
+        "win_percent": 70.58823529411765,
+        "total_matches": 17,
+        "win_count": 12,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Danilo Moreira": {
+        "sub_percent": 33,
+        "win_percent": 66.66666666666666,
+        "total_matches": 9,
+        "win_count": 6,
+        "leg_lock_count": 2,
+        "sub_variety": 1,
+        "sub_count": 2,
+        "leg_lock_percent": 100.0
+    },
+    "Dante Leon": {
+        "sub_percent": 63,
+        "win_percent": 70.75471698113208,
+        "total_matches": 106,
+        "win_count": 75,
+        "leg_lock_count": 8,
+        "sub_variety": 15,
+        "sub_count": 47,
+        "leg_lock_percent": 17.02127659574468
+    },
+    "Davi Ramos": {
+        "sub_percent": 55,
+        "win_percent": 65.27777777777779,
+        "total_matches": 74,
+        "win_count": 47,
+        "leg_lock_count": 7,
+        "sub_variety": 12,
+        "sub_count": 26,
+        "leg_lock_percent": 26.923076923076923
+    },
+    "David Garmo": {
+        "sub_percent": 79,
+        "win_percent": 63.63636363636363,
+        "total_matches": 69,
+        "win_count": 42,
+        "leg_lock_count": 15,
+        "sub_variety": 12,
+        "sub_count": 33,
+        "leg_lock_percent": 45.45454545454545
+    },
+    "Darragh O\u2019Conaill": {
+        "sub_percent": 42,
+        "win_percent": 63.44086021505376,
+        "total_matches": 95,
+        "win_count": 59,
+        "leg_lock_count": 0,
+        "sub_variety": 11,
+        "sub_count": 25,
+        "leg_lock_percent": 0.0
+    },
+    "Dean Lister \u201cThe Boogeyman\u201d": {
+        "sub_percent": 76,
+        "win_percent": 62.5,
+        "total_matches": 42,
+        "win_count": 25,
+        "leg_lock_count": 14,
+        "sub_variety": 10,
+        "sub_count": 19,
+        "leg_lock_percent": 73.68421052631578
+    },
+    "Demian Maia": {
+        "sub_percent": 29,
+        "win_percent": 68.57142857142857,
+        "total_matches": 35,
+        "win_count": 24,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Devhonte Johnson": {
+        "sub_percent": 21,
+        "win_percent": 66.0,
+        "total_matches": 50,
+        "win_count": 33,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Diego Ramalho": {
+        "sub_percent": 34,
+        "win_percent": 75.64766839378238,
+        "total_matches": 193,
+        "win_count": 146,
+        "leg_lock_count": 5,
+        "sub_variety": 13,
+        "sub_count": 50,
+        "leg_lock_percent": 10.0
+    },
+    "Diego \u201cPato\u201d Oliveira": {
+        "sub_percent": 41,
+        "win_percent": 90.625,
+        "total_matches": 32,
+        "win_count": 29,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 12,
+        "leg_lock_percent": 0.0
+    },
+    "Dillon Danis": {
+        "sub_percent": 61,
+        "win_percent": 52.94117647058824,
+        "total_matches": 34,
+        "win_count": 18,
+        "leg_lock_count": 6,
+        "sub_variety": 7,
+        "sub_count": 11,
+        "leg_lock_percent": 54.54545454545454
+    },
+    "Diogo Sampaio \u201cMoreno\u201d": {
+        "sub_percent": 21,
+        "win_percent": 59.25925925925925,
+        "total_matches": 82,
+        "win_count": 48,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "DJ Jackson": {
+        "sub_percent": 26,
+        "win_percent": 69.6969696969697,
+        "total_matches": 133,
+        "win_count": 92,
+        "leg_lock_count": 1,
+        "sub_variety": 12,
+        "sub_count": 24,
+        "leg_lock_percent": 4.166666666666666
+    },
+    "Deandre Corbe": {
+        "sub_percent": 38,
+        "win_percent": 65.625,
+        "total_matches": 32,
+        "win_count": 21,
+        "leg_lock_count": 1,
+        "sub_variety": 4,
+        "sub_count": 8,
+        "leg_lock_percent": 12.5
+    },
+    "Dominique Bell": {
+        "sub_percent": 42,
+        "win_percent": 76.0,
+        "total_matches": 25,
+        "win_count": 19,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Dominyka Obelenyte": {
+        "sub_percent": 40,
+        "win_percent": 95.23809523809523,
+        "total_matches": 21,
+        "win_count": 20,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Eduardo Avelar": {
+        "sub_percent": 44,
+        "win_percent": 59.25925925925925,
+        "total_matches": 27,
+        "win_count": 16,
+        "leg_lock_count": 1,
+        "sub_variety": 3,
+        "sub_count": 7,
+        "leg_lock_percent": 14.285714285714285
+    },
+    "Eduardo Barboza": {
+        "sub_percent": 20,
+        "win_percent": 62.5,
+        "total_matches": 16,
+        "win_count": 10,
+        "leg_lock_count": 1,
+        "sub_variety": 4,
+        "sub_count": 2,
+        "leg_lock_percent": 50.0
+    },
+    "Eduardo Lopes": {
+        "sub_percent": 48,
+        "win_percent": 80.76923076923077,
+        "total_matches": 26,
+        "win_count": 21,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Eduardo Telles": {
+        "sub_percent": 40,
+        "win_percent": 49.382716049382715,
+        "total_matches": 83,
+        "win_count": 40,
+        "leg_lock_count": 3,
+        "sub_variety": 10,
+        "sub_count": 16,
+        "leg_lock_percent": 18.75
+    },
+    "Eduardo Tinoco": {
+        "sub_percent": 56,
+        "win_percent": 75.0,
+        "total_matches": 12,
+        "win_count": 9,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 5,
+        "leg_lock_percent": 0.0
+    },
+    "Eddie Cummings": {
+        "sub_percent": 84,
+        "win_percent": 89.28571428571429,
+        "total_matches": 29,
+        "win_count": 25,
+        "leg_lock_count": 17,
+        "sub_variety": 4,
+        "sub_count": 21,
+        "leg_lock_percent": 80.95238095238095
+    },
+    "Edwin Najmi": {
+        "sub_percent": 54,
+        "win_percent": 68.4931506849315,
+        "total_matches": 73,
+        "win_count": 50,
+        "leg_lock_count": 2,
+        "sub_variety": 11,
+        "sub_count": 27,
+        "leg_lock_percent": 7.4074074074074066
+    },
+    "Junny Ocasio": {
+        "sub_percent": 14,
+        "win_percent": 58.333333333333336,
+        "total_matches": 12,
+        "win_count": 7,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Eldar \u201cYakuza\u201d Rafigaev": {
+        "sub_percent": 77,
+        "win_percent": 78.57142857142857,
+        "total_matches": 126,
+        "win_count": 99,
+        "leg_lock_count": 56,
+        "sub_variety": 14,
+        "sub_count": 76,
+        "leg_lock_percent": 73.68421052631578
+    },
+    "Endres Barbosa": {
+        "sub_percent": 65,
+        "win_percent": 80.0,
+        "total_matches": 25,
+        "win_count": 20,
+        "leg_lock_count": 3,
+        "sub_variety": 7,
+        "sub_count": 13,
+        "leg_lock_percent": 23.076923076923077
+    },
+    "Eric Phan": {
+        "sub_percent": 27,
+        "win_percent": 64.70588235294117,
+        "total_matches": 17,
+        "win_count": 11,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Espen Mathiesen": {
+        "sub_percent": 73,
+        "win_percent": 72.22222222222221,
+        "total_matches": 36,
+        "win_count": 26,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 19,
+        "leg_lock_percent": 0.0
+    },
+    "F\u00e1bio Alano": {
+        "sub_percent": 63,
+        "win_percent": 88.88888888888889,
+        "total_matches": 9,
+        "win_count": 8,
+        "leg_lock_count": 1,
+        "sub_variety": 3,
+        "sub_count": 5,
+        "leg_lock_percent": 20.0
+    },
+    "Fabio Caloi": {
+        "sub_percent": 49,
+        "win_percent": 65.625,
+        "total_matches": 96,
+        "win_count": 63,
+        "leg_lock_count": 3,
+        "sub_variety": 13,
+        "sub_count": 31,
+        "leg_lock_percent": 9.67741935483871
+    },
+    "Fabricio Werdum": {
+        "sub_percent": 38,
+        "win_percent": 71.11111111111111,
+        "total_matches": 46,
+        "win_count": 32,
+        "leg_lock_count": 1,
+        "sub_variety": 6,
+        "sub_count": 12,
+        "leg_lock_percent": 8.333333333333332
+    },
+    "Ffion Davies": {
+        "sub_percent": 71,
+        "win_percent": 87.17948717948718,
+        "total_matches": 39,
+        "win_count": 34,
+        "leg_lock_count": 0,
+        "sub_variety": 8,
+        "sub_count": 24,
+        "leg_lock_percent": 0.0
+    },
+    "Felipe Bezerra": {
+        "sub_percent": 11,
+        "win_percent": 54.54545454545454,
+        "total_matches": 33,
+        "win_count": 18,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 2,
+        "leg_lock_percent": 0.0
+    },
+    "Felipe Cesar": {
+        "sub_percent": 39,
+        "win_percent": 68.87755102040816,
+        "total_matches": 197,
+        "win_count": 135,
+        "leg_lock_count": 18,
+        "sub_variety": 19,
+        "sub_count": 53,
+        "leg_lock_percent": 33.9622641509434
+    },
+    "Felipe Pena \u201cPregui\u00e7a\u201d": {
+        "sub_percent": 48,
+        "win_percent": 87.24832214765101,
+        "total_matches": 149,
+        "win_count": 130,
+        "leg_lock_count": 4,
+        "sub_variety": 23,
+        "sub_count": 62,
+        "leg_lock_percent": 6.451612903225806
+    },
+    "Felipe Linhares": {
+        "sub_percent": 20,
+        "win_percent": 51.724137931034484,
+        "total_matches": 29,
+        "win_count": 15,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Fellipe Andrew": {
+        "sub_percent": 70,
+        "win_percent": 86.53846153846155,
+        "total_matches": 105,
+        "win_count": 90,
+        "leg_lock_count": 4,
+        "sub_variety": 17,
+        "sub_count": 63,
+        "leg_lock_percent": 6.349206349206349
+    },
+    "Fellipe Trovo": {
+        "sub_percent": 54,
+        "win_percent": 66.66666666666666,
+        "total_matches": 78,
+        "win_count": 52,
+        "leg_lock_count": 4,
+        "sub_variety": 14,
+        "sub_count": 28,
+        "leg_lock_percent": 14.285714285714285
+    },
+    "Frank Rosenthal": {
+        "sub_percent": 50,
+        "win_percent": 73.68421052631578,
+        "total_matches": 19,
+        "win_count": 14,
+        "leg_lock_count": 5,
+        "sub_variety": 5,
+        "sub_count": 7,
+        "leg_lock_percent": 71.42857142857143
+    },
+    "Fernando \u201cTerer\u00ea\u201d": {
+        "sub_percent": 32,
+        "win_percent": 77.08333333333334,
+        "total_matches": 48,
+        "win_count": 37,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 12,
+        "leg_lock_percent": 0.0
+    },
+    "Fernando Pontes \u201cMargarida\u201d": {
+        "sub_percent": 56,
+        "win_percent": 77.27272727272727,
+        "total_matches": 44,
+        "win_count": 34,
+        "leg_lock_count": 1,
+        "sub_variety": 9,
+        "sub_count": 19,
+        "leg_lock_percent": 5.263157894736842
+    },
+    "Fernando Vieira": {
+        "sub_percent": 53,
+        "win_percent": 73.91304347826086,
+        "total_matches": 26,
+        "win_count": 17,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 9,
+        "leg_lock_percent": 0.0
+    },
+    "Gabriel Almeida": {
+        "sub_percent": 52,
+        "win_percent": 66.0,
+        "total_matches": 50,
+        "win_count": 33,
+        "leg_lock_count": 7,
+        "sub_variety": 14,
+        "sub_count": 17,
+        "leg_lock_percent": 41.17647058823529
+    },
+    "Gabriel Arges": {
+        "sub_percent": 37,
+        "win_percent": 80.37383177570094,
+        "total_matches": 107,
+        "win_count": 86,
+        "leg_lock_count": 7,
+        "sub_variety": 10,
+        "sub_count": 32,
+        "leg_lock_percent": 21.875
+    },
+    "Gabriel Figueir\u00f3": {
+        "sub_percent": 50,
+        "win_percent": 73.68421052631578,
+        "total_matches": 19,
+        "win_count": 14,
+        "leg_lock_count": 1,
+        "sub_variety": 6,
+        "sub_count": 7,
+        "leg_lock_percent": 14.285714285714285
+    },
+    "Gabriel Henrique Oliveira": {
+        "sub_percent": 100,
+        "win_percent": 66.66666666666666,
+        "total_matches": 6,
+        "win_count": 4,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 4,
+        "leg_lock_percent": 0.0
+    },
+    "Gabriel Lucas": {
+        "sub_percent": 13,
+        "win_percent": 58.333333333333336,
+        "total_matches": 97,
+        "win_count": 56,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Gabriel Marangoni": {
+        "sub_percent": 55,
+        "win_percent": 68.42105263157895,
+        "total_matches": 114,
+        "win_count": 78,
+        "leg_lock_count": 7,
+        "sub_variety": 20,
+        "sub_count": 43,
+        "leg_lock_percent": 16.27906976744186
+    },
+    "Gabriel Moraes": {
+        "sub_percent": 17,
+        "win_percent": 64.86486486486487,
+        "total_matches": 37,
+        "win_count": 24,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 4,
+        "leg_lock_percent": 0.0
+    },
+    "Gabriel Rollo": {
+        "sub_percent": 34,
+        "win_percent": 68.69565217391305,
+        "total_matches": 115,
+        "win_count": 79,
+        "leg_lock_count": 2,
+        "sub_variety": 14,
+        "sub_count": 27,
+        "leg_lock_percent": 7.4074074074074066
+    },
+    "Gabriel Vella": {
+        "sub_percent": 21,
+        "win_percent": 73.07692307692307,
+        "total_matches": 26,
+        "win_count": 19,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 4,
+        "leg_lock_percent": 0.0
+    },
+    "Gabriel Sousa": {
+        "sub_percent": 29,
+        "win_percent": 82.10526315789474,
+        "total_matches": 95,
+        "win_count": 78,
+        "leg_lock_count": 2,
+        "sub_variety": 9,
+        "sub_count": 23,
+        "leg_lock_percent": 8.695652173913043
+    },
+    "Gabrielle Garcia": {
+        "sub_percent": 54,
+        "win_percent": 93.05555555555556,
+        "total_matches": 72,
+        "win_count": 67,
+        "leg_lock_count": 1,
+        "sub_variety": 12,
+        "sub_count": 36,
+        "leg_lock_percent": 2.7777777777777777
+    },
+    "Garry Tonon": {
+        "sub_percent": 70,
+        "win_percent": 73.40425531914893,
+        "total_matches": 96,
+        "win_count": 69,
+        "leg_lock_count": 30,
+        "sub_variety": 16,
+        "sub_count": 48,
+        "leg_lock_percent": 62.5
+    },
+    "Gerard Labinski": {
+        "sub_percent": 35,
+        "win_percent": 67.3913043478261,
+        "total_matches": 46,
+        "win_count": 31,
+        "leg_lock_count": 5,
+        "sub_variety": 5,
+        "sub_count": 11,
+        "leg_lock_percent": 45.45454545454545
+    },
+    "Jerry Rinaldi": {
+        "sub_percent": 20,
+        "win_percent": 62.5,
+        "total_matches": 8,
+        "win_count": 5,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Gilbert Burns \u201cDurinho\u201d": {
+        "sub_percent": 26,
+        "win_percent": 70.49180327868852,
+        "total_matches": 61,
+        "win_count": 43,
+        "leg_lock_count": 2,
+        "sub_variety": 10,
+        "sub_count": 11,
+        "leg_lock_percent": 18.181818181818183
+    },
+    "Gilson Nunes": {
+        "sub_percent": 55,
+        "win_percent": 75.75757575757575,
+        "total_matches": 99,
+        "win_count": 75,
+        "leg_lock_count": 1,
+        "sub_variety": 13,
+        "sub_count": 41,
+        "leg_lock_percent": 2.4390243902439024
+    },
+    "Gregor Gracie": {
+        "sub_percent": 29,
+        "win_percent": 60.78431372549019,
+        "total_matches": 53,
+        "win_count": 31,
+        "leg_lock_count": 1,
+        "sub_variety": 9,
+        "sub_count": 9,
+        "leg_lock_percent": 11.11111111111111
+    },
+    "Guilherme Cordiviola": {
+        "sub_percent": 8,
+        "win_percent": 63.1578947368421,
+        "total_matches": 19,
+        "win_count": 12,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Guilherme Mendes": {
+        "sub_percent": 52,
+        "win_percent": 84.0,
+        "total_matches": 50,
+        "win_count": 42,
+        "leg_lock_count": 2,
+        "sub_variety": 11,
+        "sub_count": 22,
+        "leg_lock_percent": 9.090909090909092
+    },
+    "Guilherme Rocha": {
+        "sub_percent": 29,
+        "win_percent": 70.45454545454545,
+        "total_matches": 44,
+        "win_count": 31,
+        "leg_lock_count": 1,
+        "sub_variety": 8,
+        "sub_count": 9,
+        "leg_lock_percent": 11.11111111111111
+    },
+    "Gunnar Nelson": {
+        "sub_percent": 25,
+        "win_percent": 44.44444444444444,
+        "total_matches": 9,
+        "win_count": 4,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Gutemberg Pereira": {
+        "sub_percent": 54,
+        "win_percent": 68.57142857142857,
+        "total_matches": 35,
+        "win_count": 24,
+        "leg_lock_count": 2,
+        "sub_variety": 9,
+        "sub_count": 13,
+        "leg_lock_percent": 15.384615384615385
+    },
+    "Guthierry Barbosa": {
+        "sub_percent": 37,
+        "win_percent": 81.81818181818183,
+        "total_matches": 33,
+        "win_count": 27,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Gustavo \u201cGuto\u201d Campos": {
+        "sub_percent": 23,
+        "win_percent": 66.66666666666666,
+        "total_matches": 45,
+        "win_count": 30,
+        "leg_lock_count": 1,
+        "sub_variety": 5,
+        "sub_count": 7,
+        "leg_lock_percent": 14.285714285714285
+    },
+    "Gustavo Maron": {
+        "sub_percent": 38,
+        "win_percent": 80.0,
+        "total_matches": 10,
+        "win_count": 8,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Gustavo Batista": {
+        "sub_percent": 26,
+        "win_percent": 87.8048780487805,
+        "total_matches": 82,
+        "win_count": 72,
+        "leg_lock_count": 1,
+        "sub_variety": 10,
+        "sub_count": 19,
+        "leg_lock_percent": 5.263157894736842
+    },
+    "Master Helio Gracie": {
+        "sub_percent": 100,
+        "win_percent": 80.0,
+        "total_matches": 18,
+        "win_count": 8,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Helton Jose Junior": {
+        "sub_percent": 16,
+        "win_percent": 65.85365853658537,
+        "total_matches": 124,
+        "win_count": 81,
+        "leg_lock_count": 1,
+        "sub_variety": 8,
+        "sub_count": 13,
+        "leg_lock_percent": 7.6923076923076925
+    },
+    "Henrique Cardoso": {
+        "sub_percent": 66,
+        "win_percent": 66.12903225806451,
+        "total_matches": 62,
+        "win_count": 41,
+        "leg_lock_count": 3,
+        "sub_variety": 9,
+        "sub_count": 27,
+        "leg_lock_percent": 11.11111111111111
+    },
+    "Hiago Gama": {
+        "sub_percent": 29,
+        "win_percent": 66.66666666666666,
+        "total_matches": 21,
+        "win_count": 14,
+        "leg_lock_count": 1,
+        "sub_variety": 5,
+        "sub_count": 4,
+        "leg_lock_percent": 25.0
+    },
+    "Horlando Monteiro": {
+        "sub_percent": 64,
+        "win_percent": 78.99159663865547,
+        "total_matches": 119,
+        "win_count": 94,
+        "leg_lock_count": 3,
+        "sub_variety": 17,
+        "sub_count": 60,
+        "leg_lock_percent": 5.0
+    },
+    "Hugo Marques": {
+        "sub_percent": 29,
+        "win_percent": 81.15942028985508,
+        "total_matches": 69,
+        "win_count": 56,
+        "leg_lock_count": 1,
+        "sub_variety": 6,
+        "sub_count": 16,
+        "leg_lock_percent": 6.25
+    },
+    "Hunter Ewald": {
+        "sub_percent": 0,
+        "win_percent": 40.0,
+        "total_matches": 10,
+        "win_count": 4,
+        "leg_lock_count": 0,
+        "sub_variety": 0,
+        "sub_count": 0,
+        "leg_lock_percent": 0
+    },
+    "Hygor Brito": {
+        "sub_percent": 48,
+        "win_percent": 64.70588235294117,
+        "total_matches": 51,
+        "win_count": 33,
+        "leg_lock_count": 3,
+        "sub_variety": 8,
+        "sub_count": 16,
+        "leg_lock_percent": 18.75
+    },
+    "Ian Sanders": {
+        "sub_percent": 29,
+        "win_percent": 63.63636363636363,
+        "total_matches": 11,
+        "win_count": 7,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 2,
+        "leg_lock_percent": 0.0
+    },
+    "Igor Silva": {
+        "sub_percent": 53,
+        "win_percent": 64.34782608695652,
+        "total_matches": 115,
+        "win_count": 74,
+        "leg_lock_count": 0,
+        "sub_variety": 12,
+        "sub_count": 39,
+        "leg_lock_percent": 0.0
+    },
+    "Igor Paiva": {
+        "sub_percent": 19,
+        "win_percent": 64.28571428571429,
+        "total_matches": 43,
+        "win_count": 27,
+        "leg_lock_count": 3,
+        "sub_variety": 3,
+        "sub_count": 5,
+        "leg_lock_percent": 60.0
+    },
+    "Igor Schneider": {
+        "sub_percent": 14,
+        "win_percent": 62.264150943396224,
+        "total_matches": 106,
+        "win_count": 66,
+        "leg_lock_count": 1,
+        "sub_variety": 8,
+        "sub_count": 9,
+        "leg_lock_percent": 11.11111111111111
+    },
+    "Igor Ver\u00edssimo": {
+        "sub_percent": 33,
+        "win_percent": 63.63636363636363,
+        "total_matches": 33,
+        "win_count": 21,
+        "leg_lock_count": 1,
+        "sub_variety": 7,
+        "sub_count": 7,
+        "leg_lock_percent": 14.285714285714285
+    },
+    "Inacio Neto": {
+        "sub_percent": 38,
+        "win_percent": 63.51351351351351,
+        "total_matches": 76,
+        "win_count": 47,
+        "leg_lock_count": 1,
+        "sub_variety": 10,
+        "sub_count": 18,
+        "leg_lock_percent": 5.555555555555555
+    },
+    "Israel Sousa Almeida": {
+        "sub_percent": 29,
+        "win_percent": 77.27272727272727,
+        "total_matches": 22,
+        "win_count": 17,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 5,
+        "leg_lock_percent": 0.0
+    },
+    "Italo Moura": {
+        "sub_percent": 31,
+        "win_percent": 69.56521739130434,
+        "total_matches": 23,
+        "win_count": 16,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 5,
+        "leg_lock_percent": 0.0
+    },
+    "Isaque Bahiense": {
+        "sub_percent": 33,
+        "win_percent": 87.4015748031496,
+        "total_matches": 127,
+        "win_count": 111,
+        "leg_lock_count": 4,
+        "sub_variety": 16,
+        "sub_count": 37,
+        "leg_lock_percent": 10.81081081081081
+    },
+    "Inseong Jang": {
+        "sub_percent": 21,
+        "win_percent": 66.66666666666666,
+        "total_matches": 22,
+        "win_count": 14,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Jackson Sousa": {
+        "sub_percent": 30,
+        "win_percent": 70.1923076923077,
+        "total_matches": 209,
+        "win_count": 146,
+        "leg_lock_count": 8,
+        "sub_variety": 14,
+        "sub_count": 44,
+        "leg_lock_percent": 18.181818181818183
+    },
+    "Jake Ferrara": {
+        "sub_percent": 75,
+        "win_percent": 66.66666666666666,
+        "total_matches": 6,
+        "win_count": 4,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Jake Watson": {
+        "sub_percent": 44,
+        "win_percent": 83.33333333333334,
+        "total_matches": 30,
+        "win_count": 25,
+        "leg_lock_count": 4,
+        "sub_variety": 6,
+        "sub_count": 11,
+        "leg_lock_percent": 36.36363636363637
+    },
+    "Jakub Zajkowski": {
+        "sub_percent": 74,
+        "win_percent": 84.375,
+        "total_matches": 32,
+        "win_count": 27,
+        "leg_lock_count": 3,
+        "sub_variety": 12,
+        "sub_count": 20,
+        "leg_lock_percent": 15.0
+    },
+    "Jason Rau": {
+        "sub_percent": 92,
+        "win_percent": 81.25,
+        "total_matches": 48,
+        "win_count": 39,
+        "leg_lock_count": 29,
+        "sub_variety": 12,
+        "sub_count": 36,
+        "leg_lock_percent": 80.55555555555556
+    },
+    "Jeferson Guaresi": {
+        "sub_percent": 31,
+        "win_percent": 76.47058823529412,
+        "total_matches": 17,
+        "win_count": 13,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 4,
+        "leg_lock_percent": 0.0
+    },
+    "Jefferson Moura": {
+        "sub_percent": 73,
+        "win_percent": 73.33333333333333,
+        "total_matches": 15,
+        "win_count": 11,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Jake Shields": {
+        "sub_percent": 18,
+        "win_percent": 57.89473684210527,
+        "total_matches": 22,
+        "win_count": 11,
+        "leg_lock_count": 1,
+        "sub_variety": 3,
+        "sub_count": 2,
+        "leg_lock_percent": 50.0
+    },
+    "James Puopolo": {
+        "sub_percent": 67,
+        "win_percent": 50.847457627118644,
+        "total_matches": 118,
+        "win_count": 60,
+        "leg_lock_count": 17,
+        "sub_variety": 15,
+        "sub_count": 40,
+        "leg_lock_percent": 42.5
+    },
+    "Jean Jacques Machado": {
+        "sub_percent": 65,
+        "win_percent": 70.83333333333334,
+        "total_matches": 24,
+        "win_count": 17,
+        "leg_lock_count": 1,
+        "sub_variety": 6,
+        "sub_count": 11,
+        "leg_lock_percent": 9.090909090909092
+    },
+    "Jeff Glover": {
+        "sub_percent": 68,
+        "win_percent": 66.66666666666666,
+        "total_matches": 54,
+        "win_count": 34,
+        "leg_lock_count": 3,
+        "sub_variety": 12,
+        "sub_count": 23,
+        "leg_lock_percent": 13.043478260869565
+    },
+    "Jeremy Jackson": {
+        "sub_percent": 56,
+        "win_percent": 57.446808510638306,
+        "total_matches": 47,
+        "win_count": 27,
+        "leg_lock_count": 3,
+        "sub_variety": 8,
+        "sub_count": 15,
+        "leg_lock_percent": 20.0
+    },
+    "Jesse Urholin": {
+        "sub_percent": 7,
+        "win_percent": 78.94736842105263,
+        "total_matches": 19,
+        "win_count": 15,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Jo\u00e3o Assis": {
+        "sub_percent": 39,
+        "win_percent": 71.83098591549296,
+        "total_matches": 74,
+        "win_count": 51,
+        "leg_lock_count": 9,
+        "sub_variety": 13,
+        "sub_count": 20,
+        "leg_lock_percent": 45.0
+    },
+    "Jo\u00e3o Mendes": {
+        "sub_percent": 23,
+        "win_percent": 70.27027027027027,
+        "total_matches": 37,
+        "win_count": 26,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 6,
+        "leg_lock_percent": 0.0
+    },
+    "Jo\u00e3o Miyao": {
+        "sub_percent": 52,
+        "win_percent": 90.0,
+        "total_matches": 243,
+        "win_count": 216,
+        "leg_lock_count": 11,
+        "sub_variety": 24,
+        "sub_count": 112,
+        "leg_lock_percent": 9.821428571428571
+    },
+    "Jo\u00e3o Gabriel Rocha": {
+        "sub_percent": 42,
+        "win_percent": 71.7741935483871,
+        "total_matches": 124,
+        "win_count": 89,
+        "leg_lock_count": 5,
+        "sub_variety": 15,
+        "sub_count": 37,
+        "leg_lock_percent": 13.513513513513514
+    },
+    "Jo\u00e3o Paulo Neto": {
+        "sub_percent": 41,
+        "win_percent": 78.04878048780488,
+        "total_matches": 41,
+        "win_count": 32,
+        "leg_lock_count": 1,
+        "sub_variety": 6,
+        "sub_count": 13,
+        "leg_lock_percent": 7.6923076923076925
+    },
+    "Jorge Patino \u201cMacaco\u201d": {
+        "sub_percent": 29,
+        "win_percent": 50.0,
+        "total_matches": 14,
+        "win_count": 7,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 2,
+        "leg_lock_percent": 0.0
+    },
+    "John Combs": {
+        "sub_percent": 78,
+        "win_percent": 54.44444444444444,
+        "total_matches": 90,
+        "win_count": 49,
+        "leg_lock_count": 0,
+        "sub_variety": 11,
+        "sub_count": 38,
+        "leg_lock_percent": 0.0
+    },
+    "John Salter": {
+        "sub_percent": 20,
+        "win_percent": 83.33333333333334,
+        "total_matches": 6,
+        "win_count": 5,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Johnny Tama": {
+        "sub_percent": 48,
+        "win_percent": 62.5,
+        "total_matches": 96,
+        "win_count": 60,
+        "leg_lock_count": 3,
+        "sub_variety": 13,
+        "sub_count": 29,
+        "leg_lock_percent": 10.344827586206897
+    },
+    "Jon Blank": {
+        "sub_percent": 67,
+        "win_percent": 60.0,
+        "total_matches": 15,
+        "win_count": 9,
+        "leg_lock_count": 4,
+        "sub_variety": 4,
+        "sub_count": 6,
+        "leg_lock_percent": 66.66666666666666
+    },
+    "Johnatha Alves": {
+        "sub_percent": 43,
+        "win_percent": 77.77777777777779,
+        "total_matches": 9,
+        "win_count": 7,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Jon Calestine": {
+        "sub_percent": 78,
+        "win_percent": 69.23076923076923,
+        "total_matches": 14,
+        "win_count": 9,
+        "leg_lock_count": 7,
+        "sub_variety": 3,
+        "sub_count": 7,
+        "leg_lock_percent": 100.0
+    },
+    "Jonathan Thomas": {
+        "sub_percent": 67,
+        "win_percent": 75.0,
+        "total_matches": 20,
+        "win_count": 15,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Jonas Andrade": {
+        "sub_percent": 42,
+        "win_percent": 83.78378378378379,
+        "total_matches": 37,
+        "win_count": 31,
+        "leg_lock_count": 1,
+        "sub_variety": 7,
+        "sub_count": 13,
+        "leg_lock_percent": 7.6923076923076925
+    },
+    "Jonnatas Gracie": {
+        "sub_percent": 36,
+        "win_percent": 66.66666666666666,
+        "total_matches": 21,
+        "win_count": 14,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 5,
+        "leg_lock_percent": 0.0
+    },
+    "Jose Carlos": {
+        "sub_percent": 75,
+        "win_percent": 85.71428571428571,
+        "total_matches": 14,
+        "win_count": 12,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 9,
+        "leg_lock_percent": 0.0
+    },
+    "Jos\u00e9 Mario Sperry": {
+        "sub_percent": 47,
+        "win_percent": 77.27272727272727,
+        "total_matches": 22,
+        "win_count": 17,
+        "leg_lock_count": 1,
+        "sub_variety": 7,
+        "sub_count": 8,
+        "leg_lock_percent": 12.5
+    },
+    "Josh Hinger": {
+        "sub_percent": 69,
+        "win_percent": 76.38888888888889,
+        "total_matches": 145,
+        "win_count": 110,
+        "leg_lock_count": 3,
+        "sub_variety": 24,
+        "sub_count": 76,
+        "leg_lock_percent": 3.9473684210526314
+    },
+    "Juan Caio Kamezawa": {
+        "sub_percent": 43,
+        "win_percent": 60.0,
+        "total_matches": 36,
+        "win_count": 21,
+        "leg_lock_count": 1,
+        "sub_variety": 7,
+        "sub_count": 9,
+        "leg_lock_percent": 11.11111111111111
+    },
+    "J\u00falio dos Anjos": {
+        "sub_percent": 39,
+        "win_percent": 65.71428571428571,
+        "total_matches": 35,
+        "win_count": 23,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 9,
+        "leg_lock_percent": 0.0
+    },
+    "Jurandir Concei\u00e7\u00e3o": {
+        "sub_percent": 63,
+        "win_percent": 58.18181818181818,
+        "total_matches": 55,
+        "win_count": 32,
+        "leg_lock_count": 1,
+        "sub_variety": 11,
+        "sub_count": 20,
+        "leg_lock_percent": 5.0
+    },
+    "Justin Rader": {
+        "sub_percent": 19,
+        "win_percent": 66.66666666666666,
+        "total_matches": 39,
+        "win_count": 26,
+        "leg_lock_count": 1,
+        "sub_variety": 5,
+        "sub_count": 5,
+        "leg_lock_percent": 20.0
+    },
+    "JT Torres": {
+        "sub_percent": 48,
+        "win_percent": 75.43859649122807,
+        "total_matches": 117,
+        "win_count": 86,
+        "leg_lock_count": 2,
+        "sub_variety": 18,
+        "sub_count": 41,
+        "leg_lock_percent": 4.878048780487805
+    },
+    "Keenan Cornelius": {
+        "sub_percent": 62,
+        "win_percent": 84.25925925925925,
+        "total_matches": 219,
+        "win_count": 182,
+        "leg_lock_count": 6,
+        "sub_variety": 32,
+        "sub_count": 113,
+        "leg_lock_percent": 5.3097345132743365
+    },
+    "Kaynan Duarte": {
+        "sub_percent": 32,
+        "win_percent": 87.87878787878788,
+        "total_matches": 99,
+        "win_count": 87,
+        "leg_lock_count": 6,
+        "sub_variety": 15,
+        "sub_count": 28,
+        "leg_lock_percent": 21.428571428571427
+    },
+    "Kennedy Maciel": {
+        "sub_percent": 45,
+        "win_percent": 83.33333333333334,
+        "total_matches": 48,
+        "win_count": 40,
+        "leg_lock_count": 0,
+        "sub_variety": 10,
+        "sub_count": 18,
+        "leg_lock_percent": 0.0
+    },
+    "Kit Dale": {
+        "sub_percent": 36,
+        "win_percent": 63.63636363636363,
+        "total_matches": 48,
+        "win_count": 28,
+        "leg_lock_count": 0,
+        "sub_variety": 9,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Kron Gracie": {
+        "sub_percent": 79,
+        "win_percent": 72.5,
+        "total_matches": 40,
+        "win_count": 29,
+        "leg_lock_count": 1,
+        "sub_variety": 7,
+        "sub_count": 23,
+        "leg_lock_percent": 4.3478260869565215
+    },
+    "Kayron Gracie": {
+        "sub_percent": 36,
+        "win_percent": 73.68421052631578,
+        "total_matches": 19,
+        "win_count": 14,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 5,
+        "leg_lock_percent": 0.0
+    },
+    "Kyle Boehm": {
+        "sub_percent": 55,
+        "win_percent": 84.61538461538461,
+        "total_matches": 13,
+        "win_count": 11,
+        "leg_lock_count": 4,
+        "sub_variety": 3,
+        "sub_count": 6,
+        "leg_lock_percent": 66.66666666666666
+    },
+    "Lachlan Giles": {
+        "sub_percent": 64,
+        "win_percent": 67.9245283018868,
+        "total_matches": 53,
+        "win_count": 36,
+        "leg_lock_count": 13,
+        "sub_variety": 9,
+        "sub_count": 23,
+        "leg_lock_percent": 56.52173913043478
+    },
+    "Leandro Lo": {
+        "sub_percent": 21,
+        "win_percent": 87.84722222222221,
+        "total_matches": 293,
+        "win_count": 253,
+        "leg_lock_count": 4,
+        "sub_variety": 12,
+        "sub_count": 53,
+        "leg_lock_percent": 7.547169811320755
+    },
+    "Levi Jones-Leary": {
+        "sub_percent": 20,
+        "win_percent": 76.92307692307693,
+        "total_matches": 26,
+        "win_count": 20,
+        "leg_lock_count": 1,
+        "sub_variety": 2,
+        "sub_count": 4,
+        "leg_lock_percent": 25.0
+    },
+    "L\u00edvio Ribeiro": {
+        "sub_percent": 29,
+        "win_percent": 88.88888888888889,
+        "total_matches": 27,
+        "win_count": 24,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Luca Anacoreta": {
+        "sub_percent": 64,
+        "win_percent": 73.27586206896551,
+        "total_matches": 117,
+        "win_count": 85,
+        "leg_lock_count": 5,
+        "sub_variety": 18,
+        "sub_count": 54,
+        "leg_lock_percent": 9.25925925925926
+    },
+    "Leonardo Lara": {
+        "sub_percent": 52,
+        "win_percent": 62.7906976744186,
+        "total_matches": 43,
+        "win_count": 27,
+        "leg_lock_count": 1,
+        "sub_variety": 8,
+        "sub_count": 14,
+        "leg_lock_percent": 7.142857142857142
+    },
+    "Leonardo Leite": {
+        "sub_percent": 20,
+        "win_percent": 60.60606060606061,
+        "total_matches": 33,
+        "win_count": 20,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 4,
+        "leg_lock_percent": 0.0
+    },
+    "Leonardo Nogueira": {
+        "sub_percent": 30,
+        "win_percent": 69.51219512195121,
+        "total_matches": 85,
+        "win_count": 57,
+        "leg_lock_count": 1,
+        "sub_variety": 14,
+        "sub_count": 17,
+        "leg_lock_percent": 5.88235294117647
+    },
+    "Leonardo Saggioro": {
+        "sub_percent": 40,
+        "win_percent": 67.02127659574468,
+        "total_matches": 95,
+        "win_count": 63,
+        "leg_lock_count": 0,
+        "sub_variety": 8,
+        "sub_count": 25,
+        "leg_lock_percent": 0.0
+    },
+    "Leonardo Santos": {
+        "sub_percent": 50,
+        "win_percent": 66.66666666666666,
+        "total_matches": 28,
+        "win_count": 18,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 9,
+        "leg_lock_percent": 0.0
+    },
+    "Leonardo Silva": {
+        "sub_percent": 33,
+        "win_percent": 75.0,
+        "total_matches": 8,
+        "win_count": 6,
+        "leg_lock_count": 2,
+        "sub_variety": 2,
+        "sub_count": 2,
+        "leg_lock_percent": 100.0
+    },
+    "Leo Vieira": {
+        "sub_percent": 30,
+        "win_percent": 75.47169811320755,
+        "total_matches": 53,
+        "win_count": 40,
+        "leg_lock_count": 0,
+        "sub_variety": 10,
+        "sub_count": 12,
+        "leg_lock_percent": 0.0
+    },
+    "Luan Azevedo": {
+        "sub_percent": 10,
+        "win_percent": 90.9090909090909,
+        "total_matches": 11,
+        "win_count": 10,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Luan Carvalho": {
+        "sub_percent": 31,
+        "win_percent": 77.67857142857143,
+        "total_matches": 113,
+        "win_count": 87,
+        "leg_lock_count": 4,
+        "sub_variety": 15,
+        "sub_count": 27,
+        "leg_lock_percent": 14.814814814814813
+    },
+    "Lucas Alves": {
+        "sub_percent": 56,
+        "win_percent": 59.25925925925925,
+        "total_matches": 27,
+        "win_count": 16,
+        "leg_lock_count": 1,
+        "sub_variety": 7,
+        "sub_count": 9,
+        "leg_lock_percent": 11.11111111111111
+    },
+    "Lucas Lepri": {
+        "sub_percent": 50,
+        "win_percent": 79.28571428571428,
+        "total_matches": 140,
+        "win_count": 111,
+        "leg_lock_count": 1,
+        "sub_variety": 19,
+        "sub_count": 56,
+        "leg_lock_percent": 1.7857142857142856
+    },
+    "Lucas Rocha": {
+        "sub_percent": 27,
+        "win_percent": 56.9620253164557,
+        "total_matches": 80,
+        "win_count": 45,
+        "leg_lock_count": 0,
+        "sub_variety": 9,
+        "sub_count": 12,
+        "leg_lock_percent": 0.0
+    },
+    "Lucas \u201cHulk\u201d Barbosa": {
+        "sub_percent": 40,
+        "win_percent": 81.86813186813187,
+        "total_matches": 183,
+        "win_count": 149,
+        "leg_lock_count": 4,
+        "sub_variety": 20,
+        "sub_count": 60,
+        "leg_lock_percent": 6.666666666666667
+    },
+    "Lucas Pinheiro": {
+        "sub_percent": 56,
+        "win_percent": 72.22222222222221,
+        "total_matches": 72,
+        "win_count": 52,
+        "leg_lock_count": 3,
+        "sub_variety": 11,
+        "sub_count": 29,
+        "leg_lock_percent": 10.344827586206897
+    },
+    "Lucas Leite": {
+        "sub_percent": 21,
+        "win_percent": 69.04761904761905,
+        "total_matches": 84,
+        "win_count": 58,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 12,
+        "leg_lock_percent": 0.0
+    },
+    "Lucas Valente": {
+        "sub_percent": 65,
+        "win_percent": 83.78378378378379,
+        "total_matches": 37,
+        "win_count": 31,
+        "leg_lock_count": 4,
+        "sub_variety": 11,
+        "sub_count": 20,
+        "leg_lock_percent": 20.0
+    },
+    "Luiz Panza": {
+        "sub_percent": 77,
+        "win_percent": 68.75,
+        "total_matches": 98,
+        "win_count": 66,
+        "leg_lock_count": 10,
+        "sub_variety": 13,
+        "sub_count": 51,
+        "leg_lock_percent": 19.607843137254903
+    },
+    "Mackenzie Dern": {
+        "sub_percent": 60,
+        "win_percent": 75.0,
+        "total_matches": 101,
+        "win_count": 75,
+        "leg_lock_count": 21,
+        "sub_variety": 18,
+        "sub_count": 45,
+        "leg_lock_percent": 46.666666666666664
+    },
+    "Malachi Edmond": {
+        "sub_percent": 25,
+        "win_percent": 80.0,
+        "total_matches": 5,
+        "win_count": 4,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Manuel \u201cNelton\u201d Pontes": {
+        "sub_percent": 29,
+        "win_percent": 59.61538461538461,
+        "total_matches": 52,
+        "win_count": 31,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 9,
+        "leg_lock_percent": 0.0
+    },
+    "Matheus Costa": {
+        "sub_percent": 61,
+        "win_percent": 60.0,
+        "total_matches": 60,
+        "win_count": 36,
+        "leg_lock_count": 1,
+        "sub_variety": 11,
+        "sub_count": 22,
+        "leg_lock_percent": 4.545454545454546
+    },
+    "Matheus Diniz": {
+        "sub_percent": 44,
+        "win_percent": 74.25742574257426,
+        "total_matches": 102,
+        "win_count": 75,
+        "leg_lock_count": 0,
+        "sub_variety": 18,
+        "sub_count": 33,
+        "leg_lock_percent": 0.0
+    },
+    "Matheus Felipe": {
+        "sub_percent": 20,
+        "win_percent": 65.21739130434783,
+        "total_matches": 23,
+        "win_count": 15,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Matheus Gabriel": {
+        "sub_percent": 43,
+        "win_percent": 70.0,
+        "total_matches": 20,
+        "win_count": 14,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 6,
+        "leg_lock_percent": 0.0
+    },
+    "Matheus Godoy": {
+        "sub_percent": 24,
+        "win_percent": 68.85245901639344,
+        "total_matches": 61,
+        "win_count": 42,
+        "leg_lock_count": 7,
+        "sub_variety": 8,
+        "sub_count": 10,
+        "leg_lock_percent": 70.0
+    },
+    "Matheus Gonzaga": {
+        "sub_percent": 25,
+        "win_percent": 57.14285714285714,
+        "total_matches": 21,
+        "win_count": 12,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Matheus Spirandeli": {
+        "sub_percent": 38,
+        "win_percent": 73.33333333333333,
+        "total_matches": 75,
+        "win_count": 55,
+        "leg_lock_count": 3,
+        "sub_variety": 9,
+        "sub_count": 21,
+        "leg_lock_percent": 14.285714285714285
+    },
+    "Matheus Luna": {
+        "sub_percent": 64,
+        "win_percent": 84.61538461538461,
+        "total_matches": 13,
+        "win_count": 11,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Matt Leighton": {
+        "sub_percent": 62,
+        "win_percent": 66.66666666666666,
+        "total_matches": 63,
+        "win_count": 42,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 26,
+        "leg_lock_percent": 0.0
+    },
+    "Marcelo Garcia": {
+        "sub_percent": 65,
+        "win_percent": 83.49514563106796,
+        "total_matches": 103,
+        "win_count": 86,
+        "leg_lock_count": 1,
+        "sub_variety": 13,
+        "sub_count": 56,
+        "leg_lock_percent": 1.7857142857142856
+    },
+    "Marcelo Gomide": {
+        "sub_percent": 20,
+        "win_percent": 74.07407407407408,
+        "total_matches": 28,
+        "win_count": 20,
+        "leg_lock_count": 1,
+        "sub_variety": 4,
+        "sub_count": 4,
+        "leg_lock_percent": 25.0
+    },
+    "Marcelo Mafra": {
+        "sub_percent": 39,
+        "win_percent": 63.013698630136986,
+        "total_matches": 73,
+        "win_count": 46,
+        "leg_lock_count": 7,
+        "sub_variety": 13,
+        "sub_count": 18,
+        "leg_lock_percent": 38.88888888888889
+    },
+    "M\u00e1rcio Andr\u00e9": {
+        "sub_percent": 20,
+        "win_percent": 75.75757575757575,
+        "total_matches": 99,
+        "win_count": 75,
+        "leg_lock_count": 2,
+        "sub_variety": 10,
+        "sub_count": 15,
+        "leg_lock_percent": 13.333333333333334
+    },
+    "Marcio Cruz \u201cPe de Pano\u201d": {
+        "sub_percent": 51,
+        "win_percent": 72.3076923076923,
+        "total_matches": 65,
+        "win_count": 47,
+        "leg_lock_count": 2,
+        "sub_variety": 11,
+        "sub_count": 24,
+        "leg_lock_percent": 8.333333333333332
+    },
+    "Marcio Corleta": {
+        "sub_percent": 77,
+        "win_percent": 54.166666666666664,
+        "total_matches": 24,
+        "win_count": 13,
+        "leg_lock_count": 1,
+        "sub_variety": 7,
+        "sub_count": 10,
+        "leg_lock_percent": 10.0
+    },
+    "M\u00e1rcio Feitosa": {
+        "sub_percent": 9,
+        "win_percent": 76.19047619047619,
+        "total_matches": 42,
+        "win_count": 32,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Marcos Vinicius Martins": {
+        "sub_percent": 61,
+        "win_percent": 80.95238095238095,
+        "total_matches": 63,
+        "win_count": 51,
+        "leg_lock_count": 5,
+        "sub_variety": 14,
+        "sub_count": 31,
+        "leg_lock_percent": 16.129032258064516
+    },
+    "Marcos Tinoco": {
+        "sub_percent": 29,
+        "win_percent": 71.29629629629629,
+        "total_matches": 109,
+        "win_count": 77,
+        "leg_lock_count": 3,
+        "sub_variety": 12,
+        "sub_count": 22,
+        "leg_lock_percent": 13.636363636363635
+    },
+    "Marcos Paulo Costa": {
+        "sub_percent": 13,
+        "win_percent": 57.971014492753625,
+        "total_matches": 69,
+        "win_count": 40,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 5,
+        "leg_lock_percent": 0.0
+    },
+    "Marcus \u201cBuchecha\u201d Almeida": {
+        "sub_percent": 52,
+        "win_percent": 90.78947368421053,
+        "total_matches": 153,
+        "win_count": 138,
+        "leg_lock_count": 12,
+        "sub_variety": 28,
+        "sub_count": 72,
+        "leg_lock_percent": 16.666666666666664
+    },
+    "Marcus Ribeiro": {
+        "sub_percent": 25,
+        "win_percent": 57.14285714285714,
+        "total_matches": 8,
+        "win_count": 4,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "M\u00e1rio Reis": {
+        "sub_percent": 46,
+        "win_percent": 70.37037037037037,
+        "total_matches": 81,
+        "win_count": 57,
+        "leg_lock_count": 1,
+        "sub_variety": 12,
+        "sub_count": 26,
+        "leg_lock_percent": 3.8461538461538463
+    },
+    "Masahiro Iwasaki": {
+        "sub_percent": 3,
+        "win_percent": 53.57142857142857,
+        "total_matches": 59,
+        "win_count": 30,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Matt Serra": {
+        "sub_percent": 75,
+        "win_percent": 57.14285714285714,
+        "total_matches": 7,
+        "win_count": 4,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Mathias Luna": {
+        "sub_percent": 62,
+        "win_percent": 56.52173913043478,
+        "total_matches": 23,
+        "win_count": 13,
+        "leg_lock_count": 1,
+        "sub_variety": 8,
+        "sub_count": 8,
+        "leg_lock_percent": 12.5
+    },
+    "Maur\u00edcio Oliveira Neto": {
+        "sub_percent": 27,
+        "win_percent": 83.33333333333334,
+        "total_matches": 18,
+        "win_count": 15,
+        "leg_lock_count": 1,
+        "sub_variety": 4,
+        "sub_count": 4,
+        "leg_lock_percent": 25.0
+    },
+    "Max Lindblad": {
+        "sub_percent": 44,
+        "win_percent": 72.46376811594203,
+        "total_matches": 69,
+        "win_count": 50,
+        "leg_lock_count": 1,
+        "sub_variety": 11,
+        "sub_count": 22,
+        "leg_lock_percent": 4.545454545454546
+    },
+    "Michael Langhi": {
+        "sub_percent": 41,
+        "win_percent": 84.31372549019608,
+        "total_matches": 102,
+        "win_count": 86,
+        "leg_lock_count": 0,
+        "sub_variety": 14,
+        "sub_count": 35,
+        "leg_lock_percent": 0.0
+    },
+    "Michael Perez": {
+        "sub_percent": 27,
+        "win_percent": 53.57142857142857,
+        "total_matches": 28,
+        "win_count": 15,
+        "leg_lock_count": 2,
+        "sub_variety": 4,
+        "sub_count": 4,
+        "leg_lock_percent": 50.0
+    },
+    "Michael Trasso": {
+        "sub_percent": 9,
+        "win_percent": 55.00000000000001,
+        "total_matches": 20,
+        "win_count": 11,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Murilo Amaral": {
+        "sub_percent": 62,
+        "win_percent": 76.47058823529412,
+        "total_matches": 17,
+        "win_count": 13,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Murilo Santana": {
+        "sub_percent": 51,
+        "win_percent": 63.69047619047619,
+        "total_matches": 169,
+        "win_count": 107,
+        "leg_lock_count": 5,
+        "sub_variety": 15,
+        "sub_count": 55,
+        "leg_lock_percent": 9.090909090909092
+    },
+    "Natan Chueng": {
+        "sub_percent": 28,
+        "win_percent": 78.26086956521739,
+        "total_matches": 46,
+        "win_count": 36,
+        "leg_lock_count": 4,
+        "sub_variety": 5,
+        "sub_count": 10,
+        "leg_lock_percent": 40.0
+    },
+    "Nick Calvanese": {
+        "sub_percent": 39,
+        "win_percent": 62.06896551724138,
+        "total_matches": 29,
+        "win_count": 18,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Nicholas Meregali": {
+        "sub_percent": 79,
+        "win_percent": 79.62962962962963,
+        "total_matches": 54,
+        "win_count": 43,
+        "leg_lock_count": 0,
+        "sub_variety": 10,
+        "sub_count": 34,
+        "leg_lock_percent": 0.0
+    },
+    "Nick Schrock": {
+        "sub_percent": 28,
+        "win_percent": 46.15384615384615,
+        "total_matches": 39,
+        "win_count": 18,
+        "leg_lock_count": 1,
+        "sub_variety": 4,
+        "sub_count": 5,
+        "leg_lock_percent": 20.0
+    },
+    "Nisar Loynab": {
+        "sub_percent": 47,
+        "win_percent": 51.515151515151516,
+        "total_matches": 33,
+        "win_count": 17,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Nivaldo Oliveira": {
+        "sub_percent": 45,
+        "win_percent": 42.30769230769231,
+        "total_matches": 26,
+        "win_count": 11,
+        "leg_lock_count": 1,
+        "sub_variety": 5,
+        "sub_count": 5,
+        "leg_lock_percent": 20.0
+    },
+    "Nobuhiro Sawada": {
+        "sub_percent": 33,
+        "win_percent": 30.0,
+        "total_matches": 30,
+        "win_count": 9,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Otavio \u2018Peixotinho\u2019": {
+        "sub_percent": 20,
+        "win_percent": 62.5,
+        "total_matches": 8,
+        "win_count": 5,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Otavio Sousa": {
+        "sub_percent": 49,
+        "win_percent": 69.1358024691358,
+        "total_matches": 164,
+        "win_count": 112,
+        "leg_lock_count": 2,
+        "sub_variety": 24,
+        "sub_count": 55,
+        "leg_lock_percent": 3.6363636363636362
+    },
+    "Orlando Sanchez": {
+        "sub_percent": 15,
+        "win_percent": 68.42105263157895,
+        "total_matches": 19,
+        "win_count": 13,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 2,
+        "leg_lock_percent": 0.0
+    },
+    "Pablo Mantovani": {
+        "sub_percent": 38,
+        "win_percent": 70.0,
+        "total_matches": 60,
+        "win_count": 42,
+        "leg_lock_count": 3,
+        "sub_variety": 5,
+        "sub_count": 16,
+        "leg_lock_percent": 18.75
+    },
+    "Pablo Popovitch": {
+        "sub_percent": 12,
+        "win_percent": 77.35849056603774,
+        "total_matches": 54,
+        "win_count": 41,
+        "leg_lock_count": 1,
+        "sub_variety": 2,
+        "sub_count": 5,
+        "leg_lock_percent": 20.0
+    },
+    "PJ Barch": {
+        "sub_percent": 64,
+        "win_percent": 78.125,
+        "total_matches": 34,
+        "win_count": 25,
+        "leg_lock_count": 5,
+        "sub_variety": 9,
+        "sub_count": 16,
+        "leg_lock_percent": 31.25
+    },
+    "Paulo Gabriel": {
+        "sub_percent": 31,
+        "win_percent": 83.87096774193549,
+        "total_matches": 31,
+        "win_count": 26,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Paulo Miyao": {
+        "sub_percent": 36,
+        "win_percent": 90.04524886877829,
+        "total_matches": 223,
+        "win_count": 199,
+        "leg_lock_count": 3,
+        "sub_variety": 16,
+        "sub_count": 72,
+        "leg_lock_percent": 4.166666666666666
+    },
+    "Pedro Crixel": {
+        "sub_percent": 0,
+        "win_percent": 100.0,
+        "total_matches": 2,
+        "win_count": 2,
+        "leg_lock_count": 0,
+        "sub_variety": 0,
+        "sub_count": 0,
+        "leg_lock_percent": 0
+    },
+    "Pedro Dias": {
+        "sub_percent": 3,
+        "win_percent": 62.0,
+        "total_matches": 50,
+        "win_count": 31,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Pedro Elias": {
+        "sub_percent": 54,
+        "win_percent": 54.166666666666664,
+        "total_matches": 24,
+        "win_count": 13,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Pedro Ramalho": {
+        "sub_percent": 67,
+        "win_percent": 81.08108108108108,
+        "total_matches": 37,
+        "win_count": 30,
+        "leg_lock_count": 1,
+        "sub_variety": 8,
+        "sub_count": 20,
+        "leg_lock_percent": 5.0
+    },
+    "Pedro Serrano": {
+        "sub_percent": 67,
+        "win_percent": 60.0,
+        "total_matches": 5,
+        "win_count": 3,
+        "leg_lock_count": 2,
+        "sub_variety": 1,
+        "sub_count": 2,
+        "leg_lock_percent": 100.0
+    },
+    "Perttu Tepponen": {
+        "sub_percent": 30,
+        "win_percent": 50.0,
+        "total_matches": 21,
+        "win_count": 10,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Philippe Pomaski": {
+        "sub_percent": 26,
+        "win_percent": 67.64705882352942,
+        "total_matches": 34,
+        "win_count": 23,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 6,
+        "leg_lock_percent": 0.0
+    },
+    "Rafael Mansur": {
+        "sub_percent": 24,
+        "win_percent": 64.28571428571429,
+        "total_matches": 84,
+        "win_count": 54,
+        "leg_lock_count": 1,
+        "sub_variety": 5,
+        "sub_count": 13,
+        "leg_lock_percent": 7.6923076923076925
+    },
+    "Rafael Mendes": {
+        "sub_percent": 63,
+        "win_percent": 93.0,
+        "total_matches": 101,
+        "win_count": 93,
+        "leg_lock_count": 0,
+        "sub_variety": 14,
+        "sub_count": 59,
+        "leg_lock_percent": 0.0
+    },
+    "Rafael Lovato Jr": {
+        "sub_percent": 47,
+        "win_percent": 67.62589928057554,
+        "total_matches": 140,
+        "win_count": 94,
+        "leg_lock_count": 0,
+        "sub_variety": 18,
+        "sub_count": 44,
+        "leg_lock_percent": 0.0
+    },
+    "Rafael Paganini": {
+        "sub_percent": 65,
+        "win_percent": 76.47058823529412,
+        "total_matches": 34,
+        "win_count": 26,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 17,
+        "leg_lock_percent": 0.0
+    },
+    "Rafael Vasconcelos": {
+        "sub_percent": 25,
+        "win_percent": 57.971014492753625,
+        "total_matches": 69,
+        "win_count": 40,
+        "leg_lock_count": 3,
+        "sub_variety": 9,
+        "sub_count": 10,
+        "leg_lock_percent": 30.0
+    },
+    "Rani Yahya": {
+        "sub_percent": 39,
+        "win_percent": 72.0,
+        "total_matches": 25,
+        "win_count": 18,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Renato Canuto": {
+        "sub_percent": 24,
+        "win_percent": 74.6268656716418,
+        "total_matches": 70,
+        "win_count": 50,
+        "leg_lock_count": 1,
+        "sub_variety": 6,
+        "sub_count": 12,
+        "leg_lock_percent": 8.333333333333332
+    },
+    "Renato Cardoso": {
+        "sub_percent": 53,
+        "win_percent": 71.88940092165899,
+        "total_matches": 218,
+        "win_count": 156,
+        "leg_lock_count": 14,
+        "sub_variety": 17,
+        "sub_count": 83,
+        "leg_lock_percent": 16.867469879518072
+    },
+    "Renzo Gracie": {
+        "sub_percent": 29,
+        "win_percent": 73.68421052631578,
+        "total_matches": 20,
+        "win_count": 14,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 4,
+        "leg_lock_percent": 0.0
+    },
+    "Ricardo Abreu": {
+        "sub_percent": 58,
+        "win_percent": 63.1578947368421,
+        "total_matches": 19,
+        "win_count": 12,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Ricardo Almeida \u201cCachorr\u00e3o\u201d": {
+        "sub_percent": 54,
+        "win_percent": 61.904761904761905,
+        "total_matches": 21,
+        "win_count": 13,
+        "leg_lock_count": 1,
+        "sub_variety": 6,
+        "sub_count": 7,
+        "leg_lock_percent": 14.285714285714285
+    },
+    "Ricardo Arona": {
+        "sub_percent": 14,
+        "win_percent": 93.33333333333333,
+        "total_matches": 15,
+        "win_count": 14,
+        "leg_lock_count": 2,
+        "sub_variety": 3,
+        "sub_count": 2,
+        "leg_lock_percent": 100.0
+    },
+    "Ricardo \u201cJegue\u201d Evangelista": {
+        "sub_percent": 31,
+        "win_percent": 66.01307189542483,
+        "total_matches": 153,
+        "win_count": 101,
+        "leg_lock_count": 11,
+        "sub_variety": 15,
+        "sub_count": 31,
+        "leg_lock_percent": 35.483870967741936
+    },
+    "Ricardo Lib\u00f3rio": {
+        "sub_percent": 36,
+        "win_percent": 78.57142857142857,
+        "total_matches": 14,
+        "win_count": 11,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 4,
+        "leg_lock_percent": 0.0
+    },
+    "Ricardo Vieira": {
+        "sub_percent": 30,
+        "win_percent": 83.33333333333334,
+        "total_matches": 12,
+        "win_count": 10,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Richar Nogueira": {
+        "sub_percent": 39,
+        "win_percent": 69.49152542372882,
+        "total_matches": 59,
+        "win_count": 41,
+        "leg_lock_count": 3,
+        "sub_variety": 9,
+        "sub_count": 16,
+        "leg_lock_percent": 18.75
+    },
+    "Richard Alarcon": {
+        "sub_percent": 14,
+        "win_percent": 58.333333333333336,
+        "total_matches": 12,
+        "win_count": 7,
+        "leg_lock_count": 1,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 100.0
+    },
+    "Rickson Gracie": {
+        "sub_percent": 100,
+        "win_percent": 100.0,
+        "total_matches": 10,
+        "win_count": 10,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Rida Haisam": {
+        "sub_percent": 71,
+        "win_percent": 66.66666666666666,
+        "total_matches": 22,
+        "win_count": 14,
+        "leg_lock_count": 3,
+        "sub_variety": 7,
+        "sub_count": 10,
+        "leg_lock_percent": 30.0
+    },
+    "Rigan Machado": {
+        "sub_percent": 0,
+        "win_percent": 46.666666666666664,
+        "total_matches": 15,
+        "win_count": 7,
+        "leg_lock_count": 0,
+        "sub_variety": 0,
+        "sub_count": 0,
+        "leg_lock_percent": 0
+    },
+    "Roberto \u201cTussa\u201d Alencar": {
+        "sub_percent": 33,
+        "win_percent": 59.30232558139535,
+        "total_matches": 86,
+        "win_count": 51,
+        "leg_lock_count": 1,
+        "sub_variety": 11,
+        "sub_count": 17,
+        "leg_lock_percent": 5.88235294117647
+    },
+    "Roberto \u201cCyborg\u201d Abreu": {
+        "sub_percent": 39,
+        "win_percent": 75.31645569620254,
+        "total_matches": 160,
+        "win_count": 119,
+        "leg_lock_count": 2,
+        "sub_variety": 22,
+        "sub_count": 46,
+        "leg_lock_percent": 4.3478260869565215
+    },
+    "Roberto Jimenez": {
+        "sub_percent": 75,
+        "win_percent": 88.88888888888889,
+        "total_matches": 9,
+        "win_count": 8,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 6,
+        "leg_lock_percent": 0.0
+    },
+    "Roberto \u201cRoleta\u201d Magalhaes": {
+        "sub_percent": 38,
+        "win_percent": 72.41379310344827,
+        "total_matches": 29,
+        "win_count": 21,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Roberto Satoshi": {
+        "sub_percent": 61,
+        "win_percent": 80.26315789473685,
+        "total_matches": 80,
+        "win_count": 61,
+        "leg_lock_count": 0,
+        "sub_variety": 17,
+        "sub_count": 37,
+        "leg_lock_percent": 0.0
+    },
+    "Roberto Traven": {
+        "sub_percent": 9,
+        "win_percent": 78.57142857142857,
+        "total_matches": 14,
+        "win_count": 11,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Robson Moura": {
+        "sub_percent": 37,
+        "win_percent": 81.81818181818183,
+        "total_matches": 34,
+        "win_count": 27,
+        "leg_lock_count": 2,
+        "sub_variety": 9,
+        "sub_count": 10,
+        "leg_lock_percent": 20.0
+    },
+    "Rodolfo Vieira": {
+        "sub_percent": 65,
+        "win_percent": 89.81481481481481,
+        "total_matches": 109,
+        "win_count": 97,
+        "leg_lock_count": 0,
+        "sub_variety": 18,
+        "sub_count": 63,
+        "leg_lock_percent": 0.0
+    },
+    "Rodrigo Cavaca": {
+        "sub_percent": 47,
+        "win_percent": 58.24175824175825,
+        "total_matches": 92,
+        "win_count": 53,
+        "leg_lock_count": 3,
+        "sub_variety": 11,
+        "sub_count": 25,
+        "leg_lock_percent": 12.0
+    },
+    "Rodrigo \u201cAkilis\u201d Concei\u00e7\u00e3o": {
+        "sub_percent": 27,
+        "win_percent": 61.904761904761905,
+        "total_matches": 42,
+        "win_count": 26,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Rodrigo Caporal": {
+        "sub_percent": 29,
+        "win_percent": 31.48148148148148,
+        "total_matches": 54,
+        "win_count": 17,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 5,
+        "leg_lock_percent": 0.0
+    },
+    "Rodrigo Gracie": {
+        "sub_percent": 56,
+        "win_percent": 81.81818181818183,
+        "total_matches": 11,
+        "win_count": 9,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 5,
+        "leg_lock_percent": 0.0
+    },
+    "Rodrigo \u201cComprido\u201d Medeiros": {
+        "sub_percent": 36,
+        "win_percent": 54.347826086956516,
+        "total_matches": 47,
+        "win_count": 25,
+        "leg_lock_count": 3,
+        "sub_variety": 8,
+        "sub_count": 9,
+        "leg_lock_percent": 33.33333333333333
+    },
+    "Roger Gracie": {
+        "sub_percent": 82,
+        "win_percent": 91.56626506024097,
+        "total_matches": 84,
+        "win_count": 76,
+        "leg_lock_count": 0,
+        "sub_variety": 12,
+        "sub_count": 62,
+        "leg_lock_percent": 0.0
+    },
+    "Rolando Samson": {
+        "sub_percent": 37,
+        "win_percent": 70.37037037037037,
+        "total_matches": 27,
+        "win_count": 19,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Rolls Gracie": {
+        "sub_percent": 75,
+        "win_percent": 100.0,
+        "total_matches": 4,
+        "win_count": 4,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "R\u00f4mulo Azevedo": {
+        "sub_percent": 30,
+        "win_percent": 56.09756097560976,
+        "total_matches": 41,
+        "win_count": 23,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Romulo Barral": {
+        "sub_percent": 58,
+        "win_percent": 72.6027397260274,
+        "total_matches": 146,
+        "win_count": 106,
+        "leg_lock_count": 3,
+        "sub_variety": 20,
+        "sub_count": 61,
+        "leg_lock_percent": 4.918032786885246
+    },
+    "Ronaldo Junior": {
+        "sub_percent": 50,
+        "win_percent": 75.86206896551724,
+        "total_matches": 29,
+        "win_count": 22,
+        "leg_lock_count": 0,
+        "sub_variety": 8,
+        "sub_count": 11,
+        "leg_lock_percent": 0.0
+    },
+    "Ronaldo Souza \u201cJacare\u201d": {
+        "sub_percent": 57,
+        "win_percent": 88.67924528301887,
+        "total_matches": 53,
+        "win_count": 47,
+        "leg_lock_count": 3,
+        "sub_variety": 10,
+        "sub_count": 27,
+        "leg_lock_percent": 11.11111111111111
+    },
+    "Ross Nicholls": {
+        "sub_percent": 63,
+        "win_percent": 78.08219178082192,
+        "total_matches": 76,
+        "win_count": 57,
+        "leg_lock_count": 11,
+        "sub_variety": 13,
+        "sub_count": 36,
+        "leg_lock_percent": 30.555555555555557
+    },
+    "Rousimar Palhares": {
+        "sub_percent": 100,
+        "win_percent": 50.0,
+        "total_matches": 9,
+        "win_count": 4,
+        "leg_lock_count": 4,
+        "sub_variety": 3,
+        "sub_count": 4,
+        "leg_lock_percent": 100.0
+    },
+    "Royler Gracie": {
+        "sub_percent": 29,
+        "win_percent": 85.0,
+        "total_matches": 41,
+        "win_count": 34,
+        "leg_lock_count": 1,
+        "sub_variety": 9,
+        "sub_count": 10,
+        "leg_lock_percent": 10.0
+    },
+    "Rubens Charles \u201cCobrinha\u201d": {
+        "sub_percent": 53,
+        "win_percent": 84.89208633093526,
+        "total_matches": 139,
+        "win_count": 118,
+        "leg_lock_count": 3,
+        "sub_variety": 17,
+        "sub_count": 63,
+        "leg_lock_percent": 4.761904761904762
+    },
+    "Rudson Mateus": {
+        "sub_percent": 60,
+        "win_percent": 74.69879518072288,
+        "total_matches": 83,
+        "win_count": 62,
+        "leg_lock_count": 2,
+        "sub_variety": 9,
+        "sub_count": 37,
+        "leg_lock_percent": 5.405405405405405
+    },
+    "Ryan Hall": {
+        "sub_percent": 50,
+        "win_percent": 66.66666666666666,
+        "total_matches": 24,
+        "win_count": 16,
+        "leg_lock_count": 4,
+        "sub_variety": 5,
+        "sub_count": 8,
+        "leg_lock_percent": 50.0
+    },
+    "Samir Chantre": {
+        "sub_percent": 44,
+        "win_percent": 66.46341463414635,
+        "total_matches": 164,
+        "win_count": 109,
+        "leg_lock_count": 19,
+        "sub_variety": 18,
+        "sub_count": 48,
+        "leg_lock_percent": 39.58333333333333
+    },
+    "Saulo Ribeiro": {
+        "sub_percent": 14,
+        "win_percent": 76.92307692307693,
+        "total_matches": 92,
+        "win_count": 70,
+        "leg_lock_count": 0,
+        "sub_variety": 9,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Seif-Eddine Houmine": {
+        "sub_percent": 53,
+        "win_percent": 75.0,
+        "total_matches": 40,
+        "win_count": 30,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 16,
+        "leg_lock_percent": 0.0
+    },
+    "Sebastian Brosche": {
+        "sub_percent": 58,
+        "win_percent": 46.34146341463415,
+        "total_matches": 41,
+        "win_count": 19,
+        "leg_lock_count": 0,
+        "sub_variety": 10,
+        "sub_count": 11,
+        "leg_lock_percent": 0.0
+    },
+    "Sergio Ardila-Ibarra": {
+        "sub_percent": 43,
+        "win_percent": 66.66666666666666,
+        "total_matches": 23,
+        "win_count": 14,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 6,
+        "leg_lock_percent": 0.0
+    },
+    "Sergio Moraes": {
+        "sub_percent": 35,
+        "win_percent": 67.64705882352942,
+        "total_matches": 34,
+        "win_count": 23,
+        "leg_lock_count": 2,
+        "sub_variety": 8,
+        "sub_count": 8,
+        "leg_lock_percent": 25.0
+    },
+    "Servio Tulio": {
+        "sub_percent": 52,
+        "win_percent": 70.73170731707317,
+        "total_matches": 41,
+        "win_count": 29,
+        "leg_lock_count": 2,
+        "sub_variety": 6,
+        "sub_count": 15,
+        "leg_lock_percent": 13.333333333333334
+    },
+    "Silvio Duran": {
+        "sub_percent": 33,
+        "win_percent": 64.94845360824742,
+        "total_matches": 97,
+        "win_count": 63,
+        "leg_lock_count": 3,
+        "sub_variety": 5,
+        "sub_count": 21,
+        "leg_lock_percent": 14.285714285714285
+    },
+    "Tarcisio Jardim": {
+        "sub_percent": 18,
+        "win_percent": 50.0,
+        "total_matches": 22,
+        "win_count": 11,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 2,
+        "leg_lock_percent": 0.0
+    },
+    "Tarsis Humphreys": {
+        "sub_percent": 33,
+        "win_percent": 55.45454545454545,
+        "total_matches": 111,
+        "win_count": 61,
+        "leg_lock_count": 4,
+        "sub_variety": 11,
+        "sub_count": 20,
+        "leg_lock_percent": 20.0
+    },
+    "Thalison Soares": {
+        "sub_percent": 56,
+        "win_percent": 81.81818181818183,
+        "total_matches": 11,
+        "win_count": 9,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 5,
+        "leg_lock_percent": 0.0
+    },
+    "Thiago Macedo": {
+        "sub_percent": 26,
+        "win_percent": 66.86746987951807,
+        "total_matches": 166,
+        "win_count": 111,
+        "leg_lock_count": 1,
+        "sub_variety": 11,
+        "sub_count": 29,
+        "leg_lock_percent": 3.4482758620689653
+    },
+    "Thiago S\u00e1 Fortes": {
+        "sub_percent": 28,
+        "win_percent": 59.29203539823009,
+        "total_matches": 113,
+        "win_count": 67,
+        "leg_lock_count": 7,
+        "sub_variety": 12,
+        "sub_count": 19,
+        "leg_lock_percent": 36.84210526315789
+    },
+    "Tom Halpin": {
+        "sub_percent": 88,
+        "win_percent": 69.56521739130434,
+        "total_matches": 23,
+        "win_count": 16,
+        "leg_lock_count": 10,
+        "sub_variety": 5,
+        "sub_count": 14,
+        "leg_lock_percent": 71.42857142857143
+    },
+    "Thomas Lisboa": {
+        "sub_percent": 39,
+        "win_percent": 63.013698630136986,
+        "total_matches": 73,
+        "win_count": 46,
+        "leg_lock_count": 1,
+        "sub_variety": 11,
+        "sub_count": 18,
+        "leg_lock_percent": 5.555555555555555
+    },
+    "Tommy Langaker": {
+        "sub_percent": 70,
+        "win_percent": 79.54545454545455,
+        "total_matches": 88,
+        "win_count": 70,
+        "leg_lock_count": 1,
+        "sub_variety": 15,
+        "sub_count": 49,
+        "leg_lock_percent": 2.0408163265306123
+    },
+    "Travis Stevens": {
+        "sub_percent": 50,
+        "win_percent": 33.33333333333333,
+        "total_matches": 7,
+        "win_count": 2,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Vagner Rocha": {
+        "sub_percent": 44,
+        "win_percent": 74.68354430379746,
+        "total_matches": 82,
+        "win_count": 59,
+        "leg_lock_count": 1,
+        "sub_variety": 13,
+        "sub_count": 26,
+        "leg_lock_percent": 3.8461538461538463
+    },
+    "Valdir Ara\u00fajo \u201cBB Monstro\u201d": {
+        "sub_percent": 15,
+        "win_percent": 50.0,
+        "total_matches": 53,
+        "win_count": 26,
+        "leg_lock_count": 3,
+        "sub_variety": 4,
+        "sub_count": 4,
+        "leg_lock_percent": 75.0
+    },
+    "Victor Estima": {
+        "sub_percent": 66,
+        "win_percent": 63.29113924050633,
+        "total_matches": 81,
+        "win_count": 50,
+        "leg_lock_count": 1,
+        "sub_variety": 15,
+        "sub_count": 33,
+        "leg_lock_percent": 3.0303030303030303
+    },
+    "Victor Hugo": {
+        "sub_percent": 41,
+        "win_percent": 73.33333333333333,
+        "total_matches": 30,
+        "win_count": 22,
+        "leg_lock_count": 1,
+        "sub_variety": 9,
+        "sub_count": 9,
+        "leg_lock_percent": 11.11111111111111
+    },
+    "Victor Genovesi": {
+        "sub_percent": 66,
+        "win_percent": 70.73170731707317,
+        "total_matches": 41,
+        "win_count": 29,
+        "leg_lock_count": 0,
+        "sub_variety": 10,
+        "sub_count": 19,
+        "leg_lock_percent": 0.0
+    },
+    "Vin\u00edcius Ferreira": {
+        "sub_percent": 33,
+        "win_percent": 72.88135593220339,
+        "total_matches": 59,
+        "win_count": 43,
+        "leg_lock_count": 1,
+        "sub_variety": 6,
+        "sub_count": 14,
+        "leg_lock_percent": 7.142857142857142
+    },
+    "Vinny Magalh\u00e3es": {
+        "sub_percent": 58,
+        "win_percent": 63.1578947368421,
+        "total_matches": 60,
+        "win_count": 36,
+        "leg_lock_count": 15,
+        "sub_variety": 11,
+        "sub_count": 21,
+        "leg_lock_percent": 71.42857142857143
+    },
+    "Vinicius Pereira": {
+        "sub_percent": 43,
+        "win_percent": 70.0,
+        "total_matches": 10,
+        "win_count": 7,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Victor Silverio": {
+        "sub_percent": 13,
+        "win_percent": 61.64383561643836,
+        "total_matches": 150,
+        "win_count": 90,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 12,
+        "leg_lock_percent": 0.0
+    },
+    "Vitor \u201cShaolin\u201d Ribeiro": {
+        "sub_percent": 35,
+        "win_percent": 68.96551724137932,
+        "total_matches": 29,
+        "win_count": 20,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 7,
+        "leg_lock_percent": 0.0
+    },
+    "Vitor Henrique Oliveira": {
+        "sub_percent": 30,
+        "win_percent": 71.1864406779661,
+        "total_matches": 118,
+        "win_count": 84,
+        "leg_lock_count": 1,
+        "sub_variety": 13,
+        "sub_count": 25,
+        "leg_lock_percent": 4.0
+    },
+    "Wallid Ismail": {
+        "sub_percent": 50,
+        "win_percent": 50.0,
+        "total_matches": 4,
+        "win_count": 2,
+        "leg_lock_count": 0,
+        "sub_variety": 1,
+        "sub_count": 1,
+        "leg_lock_percent": 0.0
+    },
+    "Wanki Chae": {
+        "sub_percent": 60,
+        "win_percent": 62.5,
+        "total_matches": 42,
+        "win_count": 25,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 15,
+        "leg_lock_percent": 0.0
+    },
+    "Yago de Souza": {
+        "sub_percent": 34,
+        "win_percent": 80.85106382978722,
+        "total_matches": 47,
+        "win_count": 38,
+        "leg_lock_count": 2,
+        "sub_variety": 11,
+        "sub_count": 13,
+        "leg_lock_percent": 15.384615384615385
+    },
+    "Ygor Rodrigues": {
+        "sub_percent": 42,
+        "win_percent": 72.22222222222221,
+        "total_matches": 72,
+        "win_count": 52,
+        "leg_lock_count": 4,
+        "sub_variety": 10,
+        "sub_count": 22,
+        "leg_lock_percent": 18.181818181818183
+    },
+    "Yuta Shimada": {
+        "sub_percent": 45,
+        "win_percent": 75.60975609756098,
+        "total_matches": 41,
+        "win_count": 31,
+        "leg_lock_count": 0,
+        "sub_variety": 12,
+        "sub_count": 14,
+        "leg_lock_percent": 0.0
+    },
+    "Yuri Sim\u00f5es": {
+        "sub_percent": 27,
+        "win_percent": 78.57142857142857,
+        "total_matches": 99,
+        "win_count": 77,
+        "leg_lock_count": 1,
+        "sub_variety": 14,
+        "sub_count": 21,
+        "leg_lock_percent": 4.761904761904762
+    },
+    "Gianni Grippo": {
+        "sub_percent": 28,
+        "win_percent": 76.036866359447,
+        "total_matches": 225,
+        "win_count": 165,
+        "leg_lock_count": 2,
+        "sub_variety": 14,
+        "sub_count": 46,
+        "leg_lock_percent": 4.3478260869565215
+    },
+    "Tim Spriggs": {
+        "sub_percent": 25,
+        "win_percent": 68.47826086956522,
+        "total_matches": 92,
+        "win_count": 63,
+        "leg_lock_count": 1,
+        "sub_variety": 11,
+        "sub_count": 16,
+        "leg_lock_percent": 6.25
+    },
+    "Eddie Bravo": {
+        "sub_percent": 100,
+        "win_percent": 66.66666666666666,
+        "total_matches": 4,
+        "win_count": 2,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 2,
+        "leg_lock_percent": 0.0
+    },
+    "AJ Agazarm": {
+        "sub_percent": 34,
+        "win_percent": 62.16216216216216,
+        "total_matches": 189,
+        "win_count": 115,
+        "leg_lock_count": 8,
+        "sub_variety": 12,
+        "sub_count": 39,
+        "leg_lock_percent": 20.51282051282051
+    },
+    "Patrick Gaudio": {
+        "sub_percent": 22,
+        "win_percent": 68.0327868852459,
+        "total_matches": 123,
+        "win_count": 83,
+        "leg_lock_count": 3,
+        "sub_variety": 13,
+        "sub_count": 18,
+        "leg_lock_percent": 16.666666666666664
+    },
+    "Jaime Canuto": {
+        "sub_percent": 44,
+        "win_percent": 77.66990291262135,
+        "total_matches": 208,
+        "win_count": 160,
+        "leg_lock_count": 1,
+        "sub_variety": 14,
+        "sub_count": 70,
+        "leg_lock_percent": 1.4285714285714286
+    },
+    "Andris Brunovskis": {
+        "sub_percent": 59,
+        "win_percent": 76.47058823529412,
+        "total_matches": 51,
+        "win_count": 39,
+        "leg_lock_count": 3,
+        "sub_variety": 11,
+        "sub_count": 23,
+        "leg_lock_percent": 13.043478260869565
+    },
+    "Michael Liera Jr.": {
+        "sub_percent": 46,
+        "win_percent": 74.50980392156863,
+        "total_matches": 104,
+        "win_count": 76,
+        "leg_lock_count": 2,
+        "sub_variety": 12,
+        "sub_count": 35,
+        "leg_lock_percent": 5.714285714285714
+    },
+    "Erberth Santos": {
+        "sub_percent": 56,
+        "win_percent": 83.21917808219177,
+        "total_matches": 293,
+        "win_count": 243,
+        "leg_lock_count": 31,
+        "sub_variety": 23,
+        "sub_count": 136,
+        "leg_lock_percent": 22.794117647058822
+    },
+    "David Terrell": {
+        "sub_percent": 22,
+        "win_percent": 90.0,
+        "total_matches": 10,
+        "win_count": 9,
+        "leg_lock_count": 1,
+        "sub_variety": 3,
+        "sub_count": 2,
+        "leg_lock_percent": 50.0
+    },
+    "Ricardo Rezende": {
+        "sub_percent": 48,
+        "win_percent": 71.05263157894737,
+        "total_matches": 38,
+        "win_count": 27,
+        "leg_lock_count": 2,
+        "sub_variety": 7,
+        "sub_count": 13,
+        "leg_lock_percent": 15.384615384615385
+    },
+    "Alexandre \u201cCaf\u00e9\u201d Dantas": {
+        "sub_percent": 22,
+        "win_percent": 86.48648648648648,
+        "total_matches": 37,
+        "win_count": 32,
+        "leg_lock_count": 3,
+        "sub_variety": 6,
+        "sub_count": 7,
+        "leg_lock_percent": 42.857142857142854
+    },
+    "Dimitrius Souza": {
+        "sub_percent": 28,
+        "win_percent": 77.7027027027027,
+        "total_matches": 148,
+        "win_count": 115,
+        "leg_lock_count": 0,
+        "sub_variety": 8,
+        "sub_count": 32,
+        "leg_lock_percent": 0.0
+    },
+    "Geo Martinez": {
+        "sub_percent": 72,
+        "win_percent": 69.56521739130434,
+        "total_matches": 50,
+        "win_count": 32,
+        "leg_lock_count": 11,
+        "sub_variety": 15,
+        "sub_count": 23,
+        "leg_lock_percent": 47.82608695652174
+    },
+    "Jo\u00e3o Pedro \u201cSomalia\u201d": {
+        "sub_percent": 22,
+        "win_percent": 52.94117647058824,
+        "total_matches": 34,
+        "win_count": 18,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 4,
+        "leg_lock_percent": 0.0
+    },
+    "Guilherme Augusto": {
+        "sub_percent": 35,
+        "win_percent": 73.07692307692307,
+        "total_matches": 78,
+        "win_count": 57,
+        "leg_lock_count": 1,
+        "sub_variety": 11,
+        "sub_count": 20,
+        "leg_lock_percent": 5.0
+    },
+    "Osvaldo \u201cQueixinho\u201d Moizinho": {
+        "sub_percent": 27,
+        "win_percent": 76.27118644067797,
+        "total_matches": 179,
+        "win_count": 135,
+        "leg_lock_count": 8,
+        "sub_variety": 16,
+        "sub_count": 36,
+        "leg_lock_percent": 22.22222222222222
+    },
+    "Michael Musumeci": {
+        "sub_percent": 38,
+        "win_percent": 93.33333333333333,
+        "total_matches": 45,
+        "win_count": 42,
+        "leg_lock_count": 1,
+        "sub_variety": 8,
+        "sub_count": 16,
+        "leg_lock_percent": 6.25
+    },
+    "Victor Hon\u00f3rio": {
+        "sub_percent": 22,
+        "win_percent": 84.4155844155844,
+        "total_matches": 77,
+        "win_count": 65,
+        "leg_lock_count": 0,
+        "sub_variety": 7,
+        "sub_count": 14,
+        "leg_lock_percent": 0.0
+    },
+    "Manuel Ribamar": {
+        "sub_percent": 23,
+        "win_percent": 70.13888888888889,
+        "total_matches": 144,
+        "win_count": 101,
+        "leg_lock_count": 2,
+        "sub_variety": 12,
+        "sub_count": 23,
+        "leg_lock_percent": 8.695652173913043
+    },
+    "AJ Sousa": {
+        "sub_percent": 52,
+        "win_percent": 67.44186046511628,
+        "total_matches": 43,
+        "win_count": 29,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 15,
+        "leg_lock_percent": 0.0
+    },
+    "Isaque Paiva": {
+        "sub_percent": 52,
+        "win_percent": 73.14285714285714,
+        "total_matches": 175,
+        "win_count": 128,
+        "leg_lock_count": 0,
+        "sub_variety": 16,
+        "sub_count": 67,
+        "leg_lock_percent": 0.0
+    },
+    "Wellington \u201cAlem\u00e3o\u201d Lu\u00eds": {
+        "sub_percent": 30,
+        "win_percent": 61.36363636363637,
+        "total_matches": 45,
+        "win_count": 27,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Thiago Abreu": {
+        "sub_percent": 59,
+        "win_percent": 65.0,
+        "total_matches": 60,
+        "win_count": 39,
+        "leg_lock_count": 9,
+        "sub_variety": 10,
+        "sub_count": 23,
+        "leg_lock_percent": 39.130434782608695
+    },
+    "Thiago Gaia": {
+        "sub_percent": 38,
+        "win_percent": 72.72727272727273,
+        "total_matches": 22,
+        "win_count": 16,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 6,
+        "leg_lock_percent": 0.0
+    },
+    "Jared Dopp": {
+        "sub_percent": 13,
+        "win_percent": 42.10526315789473,
+        "total_matches": 57,
+        "win_count": 24,
+        "leg_lock_count": 0,
+        "sub_variety": 3,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Mahamed Aly": {
+        "sub_percent": 42,
+        "win_percent": 68.46153846153847,
+        "total_matches": 130,
+        "win_count": 89,
+        "leg_lock_count": 8,
+        "sub_variety": 20,
+        "sub_count": 37,
+        "leg_lock_percent": 21.62162162162162
+    },
+    "Tomoyuki Hashimoto": {
+        "sub_percent": 30,
+        "win_percent": 71.42857142857143,
+        "total_matches": 57,
+        "win_count": 40,
+        "leg_lock_count": 1,
+        "sub_variety": 9,
+        "sub_count": 12,
+        "leg_lock_percent": 8.333333333333332
+    },
+    "Mansher Khera": {
+        "sub_percent": 37,
+        "win_percent": 61.40350877192983,
+        "total_matches": 59,
+        "win_count": 35,
+        "leg_lock_count": 3,
+        "sub_variety": 8,
+        "sub_count": 13,
+        "leg_lock_percent": 23.076923076923077
+    },
+    "Isaac Doederlein": {
+        "sub_percent": 57,
+        "win_percent": 75.49019607843137,
+        "total_matches": 103,
+        "win_count": 77,
+        "leg_lock_count": 8,
+        "sub_variety": 13,
+        "sub_count": 44,
+        "leg_lock_percent": 18.181818181818183
+    },
+    "Hiago George": {
+        "sub_percent": 43,
+        "win_percent": 84.21052631578947,
+        "total_matches": 152,
+        "win_count": 128,
+        "leg_lock_count": 4,
+        "sub_variety": 20,
+        "sub_count": 55,
+        "leg_lock_percent": 7.2727272727272725
+    },
+    "Tanner Rice": {
+        "sub_percent": 18,
+        "win_percent": 57.46268656716418,
+        "total_matches": 134,
+        "win_count": 77,
+        "leg_lock_count": 0,
+        "sub_variety": 9,
+        "sub_count": 14,
+        "leg_lock_percent": 0.0
+    },
+    "Ricco Rodriguez": {
+        "sub_percent": 47,
+        "win_percent": 55.55555555555556,
+        "total_matches": 27,
+        "win_count": 15,
+        "leg_lock_count": 2,
+        "sub_variety": 5,
+        "sub_count": 7,
+        "leg_lock_percent": 28.57142857142857
+    },
+    "Djalma Spindola": {
+        "sub_percent": 0,
+        "win_percent": 0.0,
+        "total_matches": 2,
+        "win_count": 0,
+        "leg_lock_count": 0,
+        "sub_variety": 0,
+        "sub_count": 0,
+        "leg_lock_percent": 0
+    },
+    "Diego Borges": {
+        "sub_percent": 22,
+        "win_percent": 70.58823529411765,
+        "total_matches": 53,
+        "win_count": 36,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Rodnei Barbosa": {
+        "sub_percent": 50,
+        "win_percent": 73.84615384615385,
+        "total_matches": 65,
+        "win_count": 48,
+        "leg_lock_count": 3,
+        "sub_variety": 10,
+        "sub_count": 24,
+        "leg_lock_percent": 12.5
+    },
+    "Faisal Al Kitbe": {
+        "sub_percent": 7,
+        "win_percent": 54.54545454545454,
+        "total_matches": 55,
+        "win_count": 30,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 2,
+        "leg_lock_percent": 0.0
+    },
+    "Arnaldo Maidana": {
+        "sub_percent": 57,
+        "win_percent": 61.53846153846154,
+        "total_matches": 117,
+        "win_count": 72,
+        "leg_lock_count": 6,
+        "sub_variety": 18,
+        "sub_count": 41,
+        "leg_lock_percent": 14.634146341463413
+    },
+    "Evandro Nunes": {
+        "sub_percent": 93,
+        "win_percent": 53.84615384615385,
+        "total_matches": 27,
+        "win_count": 14,
+        "leg_lock_count": 2,
+        "sub_variety": 6,
+        "sub_count": 13,
+        "leg_lock_percent": 15.384615384615385
+    },
+    "Chris Holdsworth": {
+        "sub_percent": 80,
+        "win_percent": 71.42857142857143,
+        "total_matches": 7,
+        "win_count": 5,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 4,
+        "leg_lock_percent": 0.0
+    },
+    "Ruan de Oliveira": {
+        "sub_percent": 50,
+        "win_percent": 65.1685393258427,
+        "total_matches": 89,
+        "win_count": 58,
+        "leg_lock_count": 2,
+        "sub_variety": 13,
+        "sub_count": 29,
+        "leg_lock_percent": 6.896551724137931
+    },
+    "Brian Mahecha": {
+        "sub_percent": 35,
+        "win_percent": 46.42857142857143,
+        "total_matches": 56,
+        "win_count": 26,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 9,
+        "leg_lock_percent": 0.0
+    },
+    "Kevin Mahecha": {
+        "sub_percent": 43,
+        "win_percent": 55.04587155963303,
+        "total_matches": 109,
+        "win_count": 60,
+        "leg_lock_count": 7,
+        "sub_variety": 8,
+        "sub_count": 26,
+        "leg_lock_percent": 26.923076923076923
+    },
+    "Pedro Ara\u00fajo": {
+        "sub_percent": 70,
+        "win_percent": 71.42857142857143,
+        "total_matches": 14,
+        "win_count": 10,
+        "leg_lock_count": 4,
+        "sub_variety": 5,
+        "sub_count": 7,
+        "leg_lock_percent": 57.14285714285714
+    },
+    "Jonathan Satava": {
+        "sub_percent": 34,
+        "win_percent": 69.1588785046729,
+        "total_matches": 108,
+        "win_count": 74,
+        "leg_lock_count": 1,
+        "sub_variety": 10,
+        "sub_count": 25,
+        "leg_lock_percent": 4.0
+    },
+    "Alec Baulding": {
+        "sub_percent": 43,
+        "win_percent": 64.61538461538461,
+        "total_matches": 65,
+        "win_count": 42,
+        "leg_lock_count": 0,
+        "sub_variety": 8,
+        "sub_count": 18,
+        "leg_lock_percent": 0.0
+    },
+    "Yan \u201cPica-Pau\u201d Lucas": {
+        "sub_percent": 15,
+        "win_percent": 71.27659574468085,
+        "total_matches": 95,
+        "win_count": 67,
+        "leg_lock_count": 1,
+        "sub_variety": 7,
+        "sub_count": 10,
+        "leg_lock_percent": 10.0
+    },
+    "Darson Hemmings": {
+        "sub_percent": 40,
+        "win_percent": 26.31578947368421,
+        "total_matches": 19,
+        "win_count": 5,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 2,
+        "leg_lock_percent": 0.0
+    },
+    "Richie Martinez": {
+        "sub_percent": 78,
+        "win_percent": 60.0,
+        "total_matches": 49,
+        "win_count": 27,
+        "leg_lock_count": 6,
+        "sub_variety": 13,
+        "sub_count": 21,
+        "leg_lock_percent": 28.57142857142857
+    },
+    "Marcel Fortuna": {
+        "sub_percent": 16,
+        "win_percent": 61.29032258064516,
+        "total_matches": 31,
+        "win_count": 19,
+        "leg_lock_count": 0,
+        "sub_variety": 2,
+        "sub_count": 3,
+        "leg_lock_percent": 0.0
+    },
+    "Gordon Ryan": {
+        "sub_percent": 80,
+        "win_percent": 94.11764705882352,
+        "total_matches": 88,
+        "win_count": 80,
+        "leg_lock_count": 16,
+        "sub_variety": 19,
+        "sub_count": 64,
+        "leg_lock_percent": 25.0
+    },
+    "Francisco Iturralde": {
+        "sub_percent": 47,
+        "win_percent": 60.550458715596335,
+        "total_matches": 110,
+        "win_count": 66,
+        "leg_lock_count": 4,
+        "sub_variety": 11,
+        "sub_count": 31,
+        "leg_lock_percent": 12.903225806451612
+    },
+    "Dany Gerard": {
+        "sub_percent": 37,
+        "win_percent": 68.33333333333333,
+        "total_matches": 60,
+        "win_count": 41,
+        "leg_lock_count": 0,
+        "sub_variety": 9,
+        "sub_count": 15,
+        "leg_lock_percent": 0.0
+    },
+    "Jhonny Loureiro": {
+        "sub_percent": 33,
+        "win_percent": 72.85714285714285,
+        "total_matches": 71,
+        "win_count": 51,
+        "leg_lock_count": 3,
+        "sub_variety": 11,
+        "sub_count": 17,
+        "leg_lock_percent": 17.647058823529413
+    },
+    "Miguel \u00c1ngel Alderete": {
+        "sub_percent": 71,
+        "win_percent": 87.5,
+        "total_matches": 8,
+        "win_count": 7,
+        "leg_lock_count": 0,
+        "sub_variety": 4,
+        "sub_count": 5,
+        "leg_lock_percent": 0.0
+    },
+    "Cassio Francis": {
+        "sub_percent": 60,
+        "win_percent": 67.14285714285714,
+        "total_matches": 70,
+        "win_count": 47,
+        "leg_lock_count": 8,
+        "sub_variety": 17,
+        "sub_count": 28,
+        "leg_lock_percent": 28.57142857142857
+    },
+    "Jos\u00e9 Carlos Lima": {
+        "sub_percent": 21,
+        "win_percent": 66.66666666666666,
+        "total_matches": 42,
+        "win_count": 28,
+        "leg_lock_count": 0,
+        "sub_variety": 5,
+        "sub_count": 6,
+        "leg_lock_percent": 0.0
+    },
+    "Max Gimenis": {
+        "sub_percent": 32,
+        "win_percent": 67.02127659574468,
+        "total_matches": 95,
+        "win_count": 63,
+        "leg_lock_count": 1,
+        "sub_variety": 11,
+        "sub_count": 20,
+        "leg_lock_percent": 5.0
+    },
+    "Fernando Reis": {
+        "sub_percent": 43,
+        "win_percent": 74.22680412371135,
+        "total_matches": 97,
+        "win_count": 72,
+        "leg_lock_count": 0,
+        "sub_variety": 13,
+        "sub_count": 31,
+        "leg_lock_percent": 0.0
+    },
+    "Jamil Hill-Taylor": {
+        "sub_percent": 50,
+        "win_percent": 80.7017543859649,
+        "total_matches": 57,
+        "win_count": 46,
+        "leg_lock_count": 1,
+        "sub_variety": 15,
+        "sub_count": 23,
+        "leg_lock_percent": 4.3478260869565215
+    },
+    "Muslim Patsarigov": {
+        "sub_percent": 56,
+        "win_percent": 51.61290322580645,
+        "total_matches": 31,
+        "win_count": 16,
+        "leg_lock_count": 9,
+        "sub_variety": 2,
+        "sub_count": 9,
+        "leg_lock_percent": 100.0
+    },
+    "Tiago Bravo": {
+        "sub_percent": 36,
+        "win_percent": 61.72839506172839,
+        "total_matches": 81,
+        "win_count": 50,
+        "leg_lock_count": 2,
+        "sub_variety": 11,
+        "sub_count": 18,
+        "leg_lock_percent": 11.11111111111111
+    },
+    "Breno Bittencourt": {
+        "sub_percent": 24,
+        "win_percent": 60.71428571428571,
+        "total_matches": 56,
+        "win_count": 34,
+        "leg_lock_count": 0,
+        "sub_variety": 6,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Jan Buatim": {
+        "sub_percent": 36,
+        "win_percent": 48.888888888888886,
+        "total_matches": 45,
+        "win_count": 22,
+        "leg_lock_count": 0,
+        "sub_variety": 8,
+        "sub_count": 8,
+        "leg_lock_percent": 0.0
+    },
+    "Enrico Cocco": {
+        "sub_percent": 66,
+        "win_percent": 62.857142857142854,
+        "total_matches": 73,
+        "win_count": 44,
+        "leg_lock_count": 17,
+        "sub_variety": 14,
+        "sub_count": 29,
+        "leg_lock_percent": 58.620689655172406
+    },
+    "Ilke Bulut": {
+        "sub_percent": 27,
+        "win_percent": 60.65573770491803,
+        "total_matches": 61,
+        "win_count": 37,
+        "leg_lock_count": 0,
+        "sub_variety": 11,
+        "sub_count": 10,
+        "leg_lock_percent": 0.0
+    },
+    "Kristian Woodmansee": {
+        "sub_percent": 63,
+        "win_percent": 36.36363636363637,
+        "total_matches": 22,
+        "win_count": 8,
+        "leg_lock_count": 2,
+        "sub_variety": 4,
+        "sub_count": 5,
+        "leg_lock_percent": 40.0
+    },
+    "Paul Ardila-Ibarra": {
+        "sub_percent": 33,
+        "win_percent": 60.0,
+        "total_matches": 20,
+        "win_count": 12,
+        "leg_lock_count": 2,
+        "sub_variety": 5,
+        "sub_count": 4,
+        "leg_lock_percent": 50.0
+    },
+    "Vinicius Garcia": {
+        "sub_percent": 36,
+        "win_percent": 48.07692307692308,
+        "total_matches": 52,
+        "win_count": 25,
+        "leg_lock_count": 2,
+        "sub_variety": 7,
+        "sub_count": 9,
+        "leg_lock_percent": 22.22222222222222
+    }
+}

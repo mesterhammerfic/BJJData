@@ -6,7 +6,6 @@ Created on Mon Mar 16 21:15:46 2020
 @author: root
 """
 
-import plotly
 import json
 
 """first we open the data files"""
@@ -96,6 +95,5 @@ filter_list = fighterExperienceMinimum(records, num_of_fights)
 final_data = dataFilter(percentages, filter_list)
 fighter_trace = makePlot(final_data)
 
-print(RSS(m,b, fighter_trace))
-
-plotly.offline.plot([fighter_trace])
+for fighter in fighter_trace['y']:
+    print(fighter)
